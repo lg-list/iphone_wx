@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="拆底部五角螺丝">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="180" y="38" width="280" height="344" rx="42" fill="#17202b"/>
+  <rect x="214" y="78" width="212" height="262" rx="20" fill="#f7f5ef"/>
+  <rect x="281" y="350" width="78" height="7" rx="3" fill="#8b98a8"/>
+  <circle cx="250" cy="355" r="10" fill="#d65a3f"/>
+  <circle cx="390" cy="355" r="10" fill="#d65a3f"/>
+  <path d="M80 320l128 35" stroke="#516179" stroke-width="18" stroke-linecap="round"/>
+  <path d="M196 350l42 11" stroke="#e1ad35" stroke-width="9" stroke-linecap="round"/>
+  <text x="320" y="48" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#18202a">P2 五角螺丝</text>
+</svg>

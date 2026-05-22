@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="换屏幕教程主图">
+  <rect width="900" height="560" fill="#eef3f8"/>
+  <rect x="70" y="80" width="250" height="360" rx="18" fill="#dbe5ee"/>
+  <path d="M98 128h190M98 178h150M98 228h180M98 278h120" stroke="#fff" stroke-width="16" stroke-linecap="round" opacity=".78"/>
+  <rect x="330" y="86" width="220" height="340" rx="38" fill="#17202a"/><rect x="350" y="122" width="180" height="268" rx="20" fill="#f8fbff"/><path d="M360 244l150-70M372 308l120-54" stroke="#1466c3" stroke-width="12" stroke-linecap="round"/>
+  <path d="M610 160h178M610 220h130M610 280h160M610 340h108" stroke="#17202a" stroke-width="14" stroke-linecap="round" opacity=".75"/>
+  <text x="70" y="510" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" font-weight="700" fill="#17202a">换屏幕教程主图</text>
+  <text x="70" y="542" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" fill="#657181">本地绘制维修讲解图</text>
+</svg>

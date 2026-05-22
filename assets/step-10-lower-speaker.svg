@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="拆下方扬声器">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="154" y="46" width="332" height="328" rx="34" fill="#17202b"/>
+  <rect x="192" y="86" width="150" height="204" rx="14" fill="#2f3a47"/>
+  <rect x="232" y="302" width="176" height="44" rx="12" fill="#b8c2ce" stroke="#516179" stroke-width="4"/>
+  <circle cx="260" cy="324" r="10" fill="#516179"/><circle cx="296" cy="324" r="10" fill="#516179"/><circle cx="332" cy="324" r="10" fill="#516179"/>
+  <path d="M420 330l72-58" stroke="#1e8a7a" stroke-width="16" stroke-linecap="round"/>
+  <text x="320" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#18202a">扬声器挡住电池胶条</text>
+</svg>

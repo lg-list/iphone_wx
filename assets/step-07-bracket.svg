@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="拆主板排线盖板">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="154" y="46" width="332" height="328" rx="34" fill="#17202b"/>
+  <rect x="188" y="82" width="190" height="254" rx="18" fill="#f7f5ef"/>
+  <rect x="392" y="106" width="54" height="156" rx="8" fill="#b8c2ce" stroke="#516179" stroke-width="4"/>
+  <circle cx="404" cy="124" r="6" fill="#d65a3f"/><circle cx="434" cy="146" r="6" fill="#d65a3f"/><circle cx="404" cy="244" r="6" fill="#d65a3f"/>
+  <path d="M515 96l-56 56" stroke="#516179" stroke-width="14" stroke-linecap="round"/>
+  <path d="M454 157l-24 24" stroke="#e1ad35" stroke-width="7" stroke-linecap="round"/>
+  <text x="320" y="398" text-anchor="middle" font-family="Arial" font-size="23" fill="#18202a">盖板螺丝按位置摆放</text>
+</svg>

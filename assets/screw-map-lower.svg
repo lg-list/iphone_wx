@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="iPhone X 下方扬声器和 Taptic 区域螺丝位置图">
+  <rect width="900" height="560" fill="#eef2f5"/>
+  <rect x="70" y="46" width="760" height="470" rx="42" fill="#17202a"/>
+  <rect x="150" y="82" width="590" height="155" rx="18" fill="#222c38"/>
+  <rect x="120" y="255" width="350" height="90" rx="12" fill="#101820" stroke="#8995a3" stroke-width="5"/>
+  <rect x="500" y="260" width="215" height="122" rx="14" fill="#455365"/>
+  <rect x="188" y="377" width="525" height="70" rx="8" fill="#c6ccd3"/>
+  <g font-family="Arial, Microsoft YaHei, sans-serif" font-weight="700" font-size="23" fill="#fff" text-anchor="middle">
+    <circle cx="130" cy="362" r="25" fill="#d8412f" stroke="#fff" stroke-width="6"/><text x="130" y="370">L1</text>
+    <circle cx="740" cy="378" r="25" fill="#d8412f" stroke="#fff" stroke-width="6"/><text x="740" y="386">L2</text>
+    <circle cx="270" cy="435" r="25" fill="#e0b51d" stroke="#fff" stroke-width="6"/><text x="270" y="443">L3</text>
+    <circle cx="500" cy="410" r="25" fill="#1e8a68" stroke="#fff" stroke-width="6"/><text x="500" y="418">L4</text>
+    <circle cx="612" cy="405" r="25" fill="#2b6fd6" stroke="#fff" stroke-width="6"/><text x="612" y="413">L5</text>
+    <circle cx="355" cy="386" r="25" fill="#7a55c7" stroke="#fff" stroke-width="6"/><text x="355" y="394">L6</text>
+    <circle cx="188" cy="303" r="25" fill="#6d7785" stroke="#fff" stroke-width="6"/><text x="188" y="311">L7</text>
+    <circle cx="726" cy="308" r="25" fill="#d8412f" stroke="#fff" stroke-width="6"/><text x="726" y="316">S1</text>
+    <circle cx="386" cy="270" r="25" fill="#2b6fd6" stroke="#fff" stroke-width="6"/><text x="386" y="278">T1</text>
+  </g>
+  <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="22" fill="#17202a">
+    <text x="70" y="32" font-weight="700">下方扬声器 / Taptic Engine 螺丝位置</text>
+    <text x="70" y="538">L1-L7：下方支架　S1：扬声器盖板　T1：Taptic Engine</text>
+  </g>
+</svg>

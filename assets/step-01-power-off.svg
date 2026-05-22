@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="关机并取出 SIM 卡">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="218" y="42" width="204" height="330" rx="38" fill="#17202b"/>
+  <rect x="236" y="70" width="168" height="274" rx="18" fill="#f7f5ef"/>
+  <text x="320" y="178" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#d65a3f">关机</text>
+  <path d="M300 215h40" stroke="#1e8a7a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M320 197v36" stroke="#1e8a7a" stroke-width="10" stroke-linecap="round"/>
+  <rect x="455" y="172" width="78" height="48" rx="8" fill="#fff" stroke="#516179" stroke-width="4"/>
+  <circle cx="472" cy="196" r="5" fill="#516179"/>
+  <path d="M424 196h46" stroke="#d65a3f" stroke-width="5" stroke-linecap="round"/>
+  <text x="494" y="250" text-anchor="middle" font-family="Arial" font-size="22" fill="#18202a">取出 SIM</text>
+</svg>

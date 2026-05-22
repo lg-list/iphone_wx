@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="iPhone X 主板排线盖板五颗螺丝位置图">
+  <rect width="900" height="560" fill="#eef2f5"/>
+  <rect x="70" y="66" width="760" height="430" rx="42" fill="#17202a"/>
+  <rect x="115" y="110" width="405" height="310" rx="18" fill="#222c38"/>
+  <rect x="545" y="108" width="190" height="110" rx="12" fill="#354252"/>
+  <rect x="230" y="232" width="540" height="88" rx="8" fill="#101820" stroke="#8995a3" stroke-width="5"/>
+  <path d="M130 145h95v260h-95z" fill="#3b4654"/>
+  <path d="M555 220h110v90h-110z" fill="#455365"/>
+  <g font-family="Arial, Microsoft YaHei, sans-serif" font-weight="700" font-size="28" fill="#fff" text-anchor="middle">
+    <circle cx="360" cy="210" r="26" fill="#d8412f" stroke="#fff" stroke-width="6"/><text x="360" y="220">D1</text>
+    <circle cx="592" cy="244" r="26" fill="#d8412f" stroke="#fff" stroke-width="6"/><text x="592" y="254">D2</text>
+    <circle cx="735" cy="285" r="26" fill="#d8412f" stroke="#fff" stroke-width="6"/><text x="735" y="295">D3</text>
+    <circle cx="230" cy="292" r="26" fill="#e67f2d" stroke="#fff" stroke-width="6"/><text x="230" y="302">D4</text>
+    <circle cx="445" cy="296" r="26" fill="#e0b51d" stroke="#fff" stroke-width="6"/><text x="445" y="306">D5</text>
+  </g>
+  <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" fill="#17202a">
+    <text x="70" y="40" font-weight="700">主板排线盖板螺丝位置</text>
+    <text x="70" y="530">D1-D3：Y000 1.1 mm　D4：Y000 3.1 mm　D5：Y000 3.7 mm</text>
+  </g>
+</svg>

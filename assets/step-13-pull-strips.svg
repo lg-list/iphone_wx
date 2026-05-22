@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="拉出电池胶条">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="154" y="46" width="332" height="328" rx="34" fill="#17202b"/>
+  <rect x="204" y="80" width="138" height="232" rx="14" fill="#2f3a47"/>
+  <path d="M238 320c-20 42-54 66-100 74" fill="none" stroke="#e1ad35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M308 320c18 36 76 56 172 60" fill="none" stroke="#e1ad35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M480 380h92" stroke="#1e8a7a" stroke-width="14" stroke-linecap="round"/>
+  <text x="320" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#18202a">低角度、慢速度、不断拉长</text>
+</svg>

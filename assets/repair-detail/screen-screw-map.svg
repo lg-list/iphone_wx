@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="换屏幕螺丝位置图">
+  <rect width="900" height="560" fill="#eef3f8"/>
+  <rect x="160" y="52" width="580" height="442" rx="46" fill="#17202a"/>
+  <rect x="210" y="98" width="330" height="292" rx="22" fill="#253142"/>
+  <rect x="560" y="120" width="118" height="190" rx="14" fill="#3d4b5d"/>
+  <g font-family="Arial, Microsoft YaHei, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#fff">
+    <circle cx="250" cy="428" r="26" fill="#c93d38" stroke="#fff" stroke-width="6"/><text x="250" y="437">P1</text>
+    <circle cx="650" cy="428" r="26" fill="#c93d38" stroke="#fff" stroke-width="6"/><text x="650" y="437">P2</text>
+    <circle cx="585" cy="158" r="25" fill="#1466c3" stroke="#fff" stroke-width="6"/><text x="585" y="167">D1</text>
+    <circle cx="660" cy="205" r="25" fill="#1466c3" stroke="#fff" stroke-width="6"/><text x="660" y="214">D2</text>
+    <circle cx="584" cy="268" r="25" fill="#d6a920" stroke="#fff" stroke-width="6"/><text x="584" y="277">D3</text>
+    
+    
+  </g>
+  <text x="70" y="40" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" font-weight="700" fill="#17202a">换屏幕螺丝位置图</text>
+  <text x="70" y="528" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" fill="#657181">P：底部五角　D：主板排线盖板　L/T：下方模块　C/W/F：后盖危险区域</text>
+</svg>

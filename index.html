@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Apple iPhone Repair Guides | Screens, Batteries, Back Glass</title>
+  <meta name="description" content="Browse Apple iPhone repair guides for screen replacement, battery replacement, and back glass repair. Real teardown photos and verified screw tables are added model by model.">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="canonical" href="https://example.com/">
+  <link rel="stylesheet" href="styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Apple iPhone Repair Guides",
+    "description": "Model-by-model iPhone repair guides for screens, batteries, and back glass.",
+    "inLanguage": "en",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+</head>
+<body>
+  <header class="app-header">
+    <nav class="brandbar" aria-label="Main navigation">
+      <a class="brand" href="#top" aria-label="Apple iPhone Repair Guides home">
+        <span class="brand-mark">i</span>
+        <span>Apple iPhone Repair Guides</span>
+      </a>
+      <div class="quick-links">
+        <a href="#repairs">Repair Types</a>
+        <a href="#models">Models</a>
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </nav>
+
+    <section class="hero" id="top">
+      <div class="hero-copy">
+        <p class="eyebrow">Repair Navigation</p>
+        <h1>iPhone repair guides built for real-world teardown work</h1>
+        <p>Choose a repair type, then pick your iPhone model. Verified pages include real teardown photos, source links, and exact screw-length tables. Pages without verified data are clearly marked as pending.</p>
+        <div class="hero-actions">
+          <a class="primary-btn" href="#repairs">Choose a Repair</a>
+          <a class="ghost-btn" href="#models">Browse Models</a>
+        </div>
+      </div>
+      <div class="hero-gallery" aria-label="iPhone model artwork">
+        <div class="hero-phone hero-phone--one"></div>
+        <div class="hero-phone hero-phone--two"></div>
+        <div class="hero-phone hero-phone--three"></div>
+      </div>
+    </section>
+  </header>
+
+  <main>
+    <section class="repair-tabs" id="repairs" aria-labelledby="repair-title">
+      <div class="section-heading">
+        <p class="eyebrow">Step 1</p>
+        <h2 id="repair-title">Choose a repair type</h2>
+        <p>These three repair categories cover the most searched iPhone repair jobs and keep the site structure easy for users and search engines to understand.</p>
+      </div>
+      <div class="tablist" role="tablist" aria-label="Repair type">
+        <button class="repair-tab is-active" type="button" data-repair="screen" role="tab" aria-selected="true">
+          <span class="tab-icon">▣</span>
+          Screen Replacement
+        </button>
+        <button class="repair-tab" type="button" data-repair="battery" role="tab" aria-selected="false">
+          <span class="tab-icon">▰</span>
+          Battery Replacement
+        </button>
+        <button class="repair-tab" type="button" data-repair="backglass" role="tab" aria-selected="false">
+          <span class="tab-icon">◇</span>
+          Back Glass Repair
+        </button>
+      </div>
+
+      <div class="repair-summary" id="repair-summary">
+        <div>
+          <p class="summary-label">Selected Repair</p>
+          <h3>Screen Replacement</h3>
+          <p>For cracked glass, OLED damage, green lines, touch failure, or display assembly replacement.</p>
+        </div>
+        <div class="summary-meta">
+          <span>Common tools: P2, Y000, suction handle, opening picks</span>
+          <span>Main risks: display cables, Face ID sensors, waterproof seal</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="model-nav" id="models" aria-labelledby="model-title">
+      <div class="section-heading section-heading--row">
+        <div>
+          <p class="eyebrow">Step 2</p>
+          <h2 id="model-title">Browse iPhone X and newer models</h2>
+          <p>Verified status means the guide has real teardown photos and a screw table with millimeter measurements. Pending pages are kept online only as structured placeholders until reliable sources are added.</p>
+        </div>
+        <label class="search-box">
+          <span>Search model</span>
+          <input id="model-search" type="search" placeholder="Example: iPhone 15 Pro Max">
+        </label>
+      </div>
+
+      <div class="series-filter" aria-label="Filter by series">
+        <button class="series-pill is-active" type="button" data-series="all">All</button>
+        <button class="series-pill" type="button" data-series="X">X Series</button>
+        <button class="series-pill" type="button" data-series="11">11 Series</button>
+        <button class="series-pill" type="button" data-series="12">12 Series</button>
+        <button class="series-pill" type="button" data-series="13">13 Series</button>
+        <button class="series-pill" type="button" data-series="14">14 Series</button>
+        <button class="series-pill" type="button" data-series="15">15 Series</button>
+        <button class="series-pill" type="button" data-series="16">16 Series</button>
+        <button class="series-pill" type="button" data-series="17">17 Series</button>
+      </div>
+
+      <div class="model-grid" id="model-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="notice" id="notice" aria-labelledby="notice-title">
+      <div>
+        <p class="eyebrow">Repair Safety</p>
+        <h2 id="notice-title">Before you open an iPhone</h2>
+      </div>
+      <ul>
+        <li>Discharge the battery below 25% before any repair involving the battery or internal connectors.</li>
+        <li>Keep every screw mapped to its original location. A long screw in the wrong hole can damage the logic board.</li>
+        <li>Back glass repair is more difficult than battery or screen repair and may involve heat, glass shards, wireless charging coils, and camera hardware.</li>
+        <li>Always verify the exact model before following a guide. Regional variants may have different SIM, antenna, or internal layouts.</li>
+      </ul>
+    </section>
+
+    <section class="source-note">
+      <p>Model coverage is based on Apple’s official iPhone model identification page. Repair pages cite iFixit or another traceable source when real teardown photos and screw measurements are available.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

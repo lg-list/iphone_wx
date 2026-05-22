@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="断开电池排线">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="154" y="46" width="332" height="328" rx="34" fill="#17202b"/>
+  <rect x="192" y="90" width="150" height="236" rx="14" fill="#2f3a47"/>
+  <rect x="372" y="160" width="60" height="42" rx="8" fill="#b8c2ce"/>
+  <path d="M342 196c34 0 42-18 60-18" fill="none" stroke="#e1ad35" stroke-width="12" stroke-linecap="round"/>
+  <path d="M492 232l-70-36" stroke="#1e8a7a" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="404" cy="180" r="18" fill="none" stroke="#d65a3f" stroke-width="6"/>
+  <text x="320" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#18202a">第一件事：断电</text>
+</svg>

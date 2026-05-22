@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="电池胶条方向">
+  <rect width="900" height="560" fill="#eef3f8"/>
+  <rect x="70" y="80" width="250" height="360" rx="18" fill="#efe0dd"/>
+  <path d="M98 128h190M98 178h150M98 228h180M98 278h120" stroke="#fff" stroke-width="16" stroke-linecap="round" opacity=".78"/>
+  <rect x="330" y="86" width="220" height="340" rx="38" fill="#17202a"/><rect x="374" y="150" width="132" height="200" rx="16" fill="#243141"/><rect x="398" y="188" width="84" height="96" rx="10" fill="#177d66"/><text x="440" y="252" text-anchor="middle" font-family="Arial" font-size="52" font-weight="700" fill="#fff">%</text>
+  <path d="M610 160h178M610 220h130M610 280h160M610 340h108" stroke="#17202a" stroke-width="14" stroke-linecap="round" opacity=".75"/>
+  <text x="70" y="510" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" font-weight="700" fill="#17202a">电池胶条方向</text>
+  <text x="70" y="542" font-family="Arial, Microsoft YaHei, sans-serif" font-size="20" fill="#657181">用镊子翻出胶条拉手，贴近桌面方向慢慢拉长。断胶时滴少量异丙醇等 1-2 分钟。</text>
+</svg>

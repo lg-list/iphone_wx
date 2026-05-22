@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="向右翻开屏幕">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="170" y="62" width="190" height="300" rx="34" fill="#17202b"/>
+  <rect x="388" y="64" width="126" height="294" rx="28" fill="#f7f5ef" stroke="#17202b" stroke-width="12" transform="rotate(8 451 211)"/>
+  <path d="M360 112c38 42 42 160 6 204" fill="none" stroke="#d65a3f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M374 186h44M374 230h44" stroke="#516179" stroke-width="7" stroke-linecap="round"/>
+  <text x="264" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#18202a">右侧像书脊，别扯排线</text>
+</svg>

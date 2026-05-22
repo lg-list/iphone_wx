@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="揭起电池胶条拉手">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="154" y="46" width="332" height="328" rx="34" fill="#17202b"/>
+  <rect x="206" y="82" width="136" height="230" rx="14" fill="#2f3a47"/>
+  <path d="M230 318h34c10 0 16 8 12 18l-8 18" fill="none" stroke="#e1ad35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M294 318h34c10 0 16 8 12 18l-8 18" fill="none" stroke="#e1ad35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M430 318l-86 26" stroke="#1e8a7a" stroke-width="12" stroke-linecap="round"/>
+  <text x="320" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#18202a">只夹胶条，不碰电芯</text>
+</svg>

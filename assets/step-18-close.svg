@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="合屏并装回底部螺丝">
+  <rect width="640" height="420" fill="#eef2f5"/>
+  <rect x="218" y="42" width="204" height="330" rx="38" fill="#17202b"/>
+  <rect x="236" y="70" width="168" height="274" rx="18" fill="#f7f5ef"/>
+  <path d="M198 95c-42 62-42 186 0 248M442 95c42 62 42 186 0 248" fill="none" stroke="#1e8a7a" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="250" cy="355" r="10" fill="#d65a3f"/>
+  <circle cx="390" cy="355" r="10" fill="#d65a3f"/>
+  <path d="M110 350l128 0M402 350l128 0" stroke="#516179" stroke-width="12" stroke-linecap="round"/>
+  <text x="320" y="34" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#18202a">先扣顶部，再压四边</text>
+</svg>
