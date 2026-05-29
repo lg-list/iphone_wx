@@ -263,9 +263,9 @@ function renderModels() {
         </div>
       </div>
       <div class="model-actions" aria-label="${model.name} repair links">
-        <a class="${currentRepair === "screen" ? "is-current" : ""}" href="repairs/screen/${slug(model.name)}.html">Screen<span>${guideStatus("screen", model)}</span></a>
-        <a class="${currentRepair === "battery" ? "is-current" : ""}" href="repairs/battery/${slug(model.name)}.html">Battery<span>${guideStatus("battery", model)}</span></a>
-        <a class="${currentRepair === "backglass" ? "is-current" : ""}" href="repairs/backglass/${slug(model.name)}.html">Back Glass<span>${guideStatus("backglass", model)}</span></a>
+        <a class="${currentRepair === "screen" ? "is-current" : ""}" href="repairs/screen/${slug(model.name)}.html" target="_blank" rel="noopener noreferrer">Screen<span>${guideStatus("screen", model)}</span></a>
+        <a class="${currentRepair === "battery" ? "is-current" : ""}" href="repairs/battery/${slug(model.name)}.html" target="_blank" rel="noopener noreferrer">Battery<span>${guideStatus("battery", model)}</span></a>
+        <a class="${currentRepair === "backglass" ? "is-current" : ""}" href="repairs/backglass/${slug(model.name)}.html" target="_blank" rel="noopener noreferrer">Back Glass<span>${guideStatus("backglass", model)}</span></a>
       </div>
     </article>
   `).join("");
