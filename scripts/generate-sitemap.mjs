@@ -17,7 +17,12 @@ for (const repair of ["screen", "battery", "backglass"]) {
   }
 }
 
-const now = new Date().toISOString().slice(0, 10);
+const now = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Asia/Shanghai",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit"
+}).format(new Date());
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(url => `  <url>
