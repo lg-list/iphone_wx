@@ -46,6 +46,12 @@ Pass a site subdirectory to rewrite a duplicate generated site with the same sha
 4. Add verified pages to Search Console and submit the sitemap.
 5. Keep thin or unverified pages `noindex,follow` until they contain original repair value.
 
+After publishing, notify IndexNow-supported search engines:
+
+```powershell
+node scripts/submit-indexnow.mjs
+```
+
 ## AdSense launch checklist
 
 1. Add the real AdSense publisher ID only after approval/setup.
