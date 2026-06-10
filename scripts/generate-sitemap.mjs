@@ -5,7 +5,15 @@ const root = process.cwd();
 const config = JSON.parse(await readFile(path.join(root, "site.config.json"), "utf8"));
 const siteUrl = config.siteUrl.replace(/\/$/, "");
 
-const staticPages = ["index.html", "screw-location-photos.html", "about.html", "privacy.html"];
+const staticPages = [
+  "index.html",
+  "screen-repair-guides.html",
+  "battery-replacement-guides.html",
+  "back-glass-repair-guides.html",
+  "screw-location-photos.html",
+  "about.html",
+  "privacy.html"
+];
 const urls = [...staticPages.map(file => file === "index.html" ? "/" : `/${file}`)];
 
 for (const repair of ["screen", "battery", "backglass"]) {
