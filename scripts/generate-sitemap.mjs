@@ -11,10 +11,18 @@ const staticPages = [
   "battery-replacement-guides.html",
   "back-glass-repair-guides.html",
   "screw-location-photos.html",
+  "site-map.html",
   "about.html",
   "privacy.html"
 ];
 const urls = [...staticPages.map(file => file === "index.html" ? "/" : `/${file}`)];
+const highPriorityPages = new Set([
+  "/screen-repair-guides.html",
+  "/battery-replacement-guides.html",
+  "/back-glass-repair-guides.html",
+  "/screw-location-photos.html",
+  "/site-map.html"
+]);
 
 for (const repair of ["screen", "battery", "backglass"]) {
   const dir = path.join(root, "repairs", repair);
@@ -37,7 +45,7 @@ ${urls.map(url => `  <url>
     <loc>${siteUrl}${url}</loc>
     <lastmod>${now}</lastmod>
     <changefreq>${url === "/" ? "weekly" : "monthly"}</changefreq>
-    <priority>${url === "/" ? "1.0" : "0.7"}</priority>
+    <priority>${url === "/" ? "1.0" : highPriorityPages.has(url) ? "0.8" : url.startsWith("/repairs/") ? "0.6" : "0.7"}</priority>
   </url>`).join("\n")}
 </urlset>
 `;

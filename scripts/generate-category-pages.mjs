@@ -167,6 +167,7 @@ for (const [type, category] of Object.entries(categories)) {
         <a href="battery-replacement-guides.html">Batteries</a>
         <a href="back-glass-repair-guides.html">Back Glass</a>
         <a href="screw-location-photos.html">Screw Photos</a>
+        <a href="site-map.html">Site Map</a>
       </div>
     </nav>
     <div class="category-intro">
@@ -178,7 +179,7 @@ for (const [type, category] of Object.entries(categories)) {
   <main class="category-main">
     <div class="category-summary">
       <p><strong>${guides.length} model guides</strong> are currently available in this category.</p>
-      <a href="index.html#models">Browse every iPhone model</a>
+      <a href="site-map.html">Open the full site map</a>
     </div>
     <section class="guide-grid" aria-label="${category.label} guides">
 ${cards}
