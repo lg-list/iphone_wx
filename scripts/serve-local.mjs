@@ -31,8 +31,20 @@ createServer(async (request, response) => {
   const fileStat = filePath && await stat(filePath).catch(() => null);
 
   if (!fileStat?.isFile()) {
-    response.writeHead(404, { "content-type": "text/plain; charset=utf-8" });
-    response.end("Not found");
+    const fallbackPath = path.join(root, "404.html");
+    const fallbackStat = await stat(fallbackPath).catch(() => null);
+
+    if (!fallbackStat?.isFile()) {
+      response.writeHead(404, { "content-type": "text/plain; charset=utf-8" });
+      response.end("Not found");
+      return;
+    }
+
+    response.writeHead(404, {
+      "content-type": "text/html; charset=utf-8",
+      "content-length": fallbackStat.size
+    });
+    createReadStream(fallbackPath).pipe(response);
     return;
   }
 

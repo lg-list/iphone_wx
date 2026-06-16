@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <title>Page Not Found | FixMob iPhone Repair Guides</title>
+  <meta name="description" content="The requested FixMob iPhone repair guide could not be found. Search by model or open the screen, battery, back glass, and screw photo libraries.">
+  <meta name="author" content="FixMob">
+  <meta name="robots" content="noindex,follow">
+  <link rel="canonical" href="https://fixmob.tech/404.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="FixMob">
+  <meta property="og:title" content="Page Not Found | FixMob iPhone Repair Guides">
+  <meta property="og:description" content="Search FixMob by iPhone model or open the repair guide collections.">
+  <meta property="og:url" content="https://fixmob.tech/404.html">
+  <meta property="og:image" content="https://fixmob.tech/assets/home/iphone-repair-tutorial-banner.png">
+  <meta property="og:image:width" content="1774">
+  <meta property="og:image:height" content="887">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Page Not Found | FixMob iPhone Repair Guides">
+  <meta name="twitter:description" content="Search FixMob by iPhone model or open the repair guide collections.">
+  <meta name="twitter:image" content="https://fixmob.tech/assets/home/iphone-repair-tutorial-banner.png">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="/assets/fixmob-mark.svg">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body class="error-page">
+  <header class="error-header">
+    <nav class="brandbar" aria-label="Main navigation">
+      <a class="brand" href="/" aria-label="FixMob home">
+        <img class="brand-logo" src="/assets/fixmob-mark.svg" alt="" aria-hidden="true">
+        <span class="brand-text">FixMob</span>
+      </a>
+      <div class="quick-links">
+        <a href="/screen-repair-guides.html">Screens</a>
+        <a href="/battery-replacement-guides.html">Batteries</a>
+        <a href="/back-glass-repair-guides.html">Back Glass</a>
+        <a href="/screw-location-photos.html">Screw Photos</a>
+        <a href="/site-map.html">Site Map</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="error-main">
+    <section class="error-hero" aria-labelledby="error-title">
+      <div>
+        <p class="eyebrow">404 Page Not Found</p>
+        <h1 id="error-title">This repair page is not available.</h1>
+        <p>The link may be old, misspelled, or pointed at a model page that has not been published yet. Search for your iPhone model or jump into the main repair libraries.</p>
+        <form class="error-search" id="error-search" action="/site-map.html">
+          <label for="guide-search">Find a repair guide</label>
+          <div>
+            <input id="guide-search" name="q" type="search" placeholder="Example: iPhone 15 Pro Max battery" autocomplete="off">
+            <button type="submit">Search</button>
+          </div>
+          <p id="error-suggestion" aria-live="polite"></p>
+        </form>
+        <div class="hero-actions">
+          <a class="primary-btn" href="/">Back to Home</a>
+          <a class="ghost-btn error-ghost" href="/site-map.html">Open Site Map</a>
+        </div>
+      </div>
+      <div class="error-panel" aria-label="Repair guide shortcuts">
+        <a href="/screen-repair-guides.html">
+          <span>Screen</span>
+          <strong>Screen replacement guides</strong>
+          <small>Display glass, OLED, touch, sensors, and brackets</small>
+        </a>
+        <a href="/battery-replacement-guides.html">
+          <span>Battery</span>
+          <strong>Battery replacement guides</strong>
+          <small>Battery safety, adhesive removal, and connectors</small>
+        </a>
+        <a href="/back-glass-repair-guides.html">
+          <span>Back Glass</span>
+          <strong>Back glass repair guides</strong>
+          <small>Heat, glass safety, cameras, and charging coils</small>
+        </a>
+        <a href="/screw-location-photos.html">
+          <span>Screws</span>
+          <strong>Screw location photo library</strong>
+          <small>Model-specific screw positions and length notes</small>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    (() => {
+      const models = [
+        "iphone-x", "iphone-xr", "iphone-xs", "iphone-xs-max",
+        "iphone-11", "iphone-11-pro", "iphone-11-pro-max",
+        "iphone-12", "iphone-12-mini", "iphone-12-pro", "iphone-12-pro-max",
+        "iphone-13", "iphone-13-mini", "iphone-13-pro", "iphone-13-pro-max",
+        "iphone-14", "iphone-14-plus", "iphone-14-pro", "iphone-14-pro-max",
+        "iphone-15", "iphone-15-plus", "iphone-15-pro", "iphone-15-pro-max",
+        "iphone-16", "iphone-16e", "iphone-16-plus", "iphone-16-pro", "iphone-16-pro-max",
+        "iphone-17", "iphone-17e", "iphone-17-pro", "iphone-17-pro-max",
+        "iphone-air"
+      ];
+      const types = [
+        { key: "screen", words: ["screen", "display", "glass", "lcd", "oled"] },
+        { key: "battery", words: ["battery", "power"] },
+        { key: "backglass", words: ["back glass", "backglass", "rear glass", "back"] }
+      ];
+      const form = document.querySelector("#error-search");
+      const input = document.querySelector("#guide-search");
+      const suggestion = document.querySelector("#error-suggestion");
+      const normalize = (value) => value.toLowerCase().replace(/\+/g, " ").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+      const readable = (slug) => slug.split("-").map((part) => {
+        if (part === "iphone") return "iPhone";
+        if (part === "xs") return "XS";
+        if (part === "xr") return "XR";
+        if (part === "pro") return "Pro";
+        if (part === "max") return "Max";
+        if (part === "mini") return "mini";
+        if (part === "air") return "Air";
+        return part;
+      }).join(" ");
+      const findGuide = () => {
+        const value = input.value.trim().toLowerCase();
+        const slugValue = normalize(value);
+        const model = [...models].sort((a, b) => b.length - a.length).find((item) => slugValue.includes(item));
+        if (!model) return null;
+        const type = types.find((item) => item.words.some((word) => value.includes(word))) ?? types[0];
+        return {
+          href: `/repairs/${type.key}/${model}.html`,
+          label: `${readable(model)} ${type.key === "backglass" ? "back glass" : type.key} guide`
+        };
+      };
+      input.addEventListener("input", () => {
+        const guide = findGuide();
+        suggestion.innerHTML = guide ? `Suggested: <a href="${guide.href}">${guide.label}</a>` : "";
+      });
+      form.addEventListener("submit", (event) => {
+        const guide = findGuide();
+        if (!guide) return;
+        event.preventDefault();
+        window.location.href = guide.href;
+      });
+    })();
+  </script>
+</body>
+</html>
