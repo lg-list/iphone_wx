@@ -28,6 +28,8 @@ const staticPages = [
   { title: "Back glass repair guide collection", href: "/back-glass-repair-guides.html" },
   { title: "Screw location photo library", href: "/screw-location-photos.html" },
   { title: "About FixMob", href: "/about.html" },
+  { title: "Contact FixMob", href: "/contact.html" },
+  { title: "Terms and repair disclaimer", href: "/terms.html" },
   { title: "Privacy policy", href: "/privacy.html" }
 ];
 
@@ -111,10 +113,12 @@ const sectionHtml = sections.map((section) => `      <section class="site-map-se
           <h2 id="${section.title.toLowerCase().replace(/[^a-z0-9]+/g, "-")}">${escapeHtml(section.title)}</h2>
         </div>
         <div class="site-map-grid">
-${section.links.map((link) => `          <a class="site-map-link" href="${escapeHtml(link.href === "/" ? "index.html" : link.href.replace(/^\//, ""))}">
-            <strong>${escapeHtml(link.title)}</strong>
-            ${link.description ? `<span>${escapeHtml(link.description)}</span>` : ""}
-          </a>`).join("\n")}
+${section.links.map((link) => {
+  const descriptionLine = link.description ? `\n            <span>${escapeHtml(link.description)}</span>` : "";
+  return `          <a class="site-map-link" href="${escapeHtml(link.href === "/" ? "index.html" : link.href.replace(/^\//, ""))}">
+            <strong>${escapeHtml(link.title)}</strong>${descriptionLine}
+          </a>`;
+}).join("\n")}
         </div>
       </section>`).join("\n");
 
@@ -177,6 +181,7 @@ const html = `<!doctype html>
         <a href="battery-replacement-guides.html">Batteries</a>
         <a href="back-glass-repair-guides.html">Back Glass</a>
         <a href="screw-location-photos.html">Screw Photos</a>
+        <a href="contact.html">Contact</a>
       </div>
     </nav>
     <div class="category-intro">

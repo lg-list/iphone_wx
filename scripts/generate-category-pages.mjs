@@ -168,6 +168,7 @@ for (const [type, category] of Object.entries(categories)) {
         <a href="back-glass-repair-guides.html">Back Glass</a>
         <a href="screw-location-photos.html">Screw Photos</a>
         <a href="site-map.html">Site Map</a>
+        <a href="contact.html">Contact</a>
       </div>
     </nav>
     <div class="category-intro">

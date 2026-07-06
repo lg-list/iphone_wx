@@ -153,7 +153,7 @@ function slug(text) {
 }
 
 function guideStatus(repair, model) {
-  return verifiedGuides.has(`${repair}/${slug(model.name)}`) ? "Verified" : "Pending";
+  return verifiedGuides.has(`${repair}/${slug(model.name)}`) ? "Guide available" : "Model info";
 }
 
 function phoneSvg(model) {

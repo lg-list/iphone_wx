@@ -13,6 +13,8 @@ const staticPages = [
   "screw-location-photos.html",
   "site-map.html",
   "about.html",
+  "contact.html",
+  "terms.html",
   "privacy.html"
 ];
 const urls = [...staticPages.map(file => file === "index.html" ? "/" : `/${file}`)];
