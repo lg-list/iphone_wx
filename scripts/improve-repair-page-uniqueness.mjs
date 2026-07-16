@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const siteUrl = "https://fixmob.tech";
+const buildDate = "2026-07-16";
 
 const models = [
   ["iphone-x", "iPhone X", "2017", "5.8-inch", "Lightning", "first Face ID iPhone with an OLED display and a compact stainless frame", "#d7dde4"],
@@ -216,38 +217,40 @@ function modelImagePath(model) {
 
 function renderPlanningJsonLd(model, repair, type, title, description, image) {
   const canonical = `${siteUrl}/repairs/${type}/${model.slug}.html`;
+  const breadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "FixMob", item: `${siteUrl}/` },
+      { "@type": "ListItem", position: 2, name: repair.label, item: `${siteUrl}/${repair.categoryUrl}` },
+      { "@type": "ListItem", position: 3, name: title, item: canonical }
+    ]
+  };
   const article = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: title,
     description,
     image: `${siteUrl}/${image}`,
+    inLanguage: "en",
+    datePublished: buildDate,
+    dateModified: buildDate,
+    articleSection: `${model.name} ${repair.label}`,
+    about: [
+      { "@type": "Thing", name: model.name },
+      { "@type": "Thing", name: repair.label }
+    ],
     author: { "@type": "Organization", name: "FixMob" },
     publisher: {
       "@type": "Organization",
       name: "FixMob",
+      url: `${siteUrl}/`,
       logo: { "@type": "ImageObject", url: `${siteUrl}/assets/fixmob-mark.svg` }
     },
     mainEntityOfPage: canonical
   };
-  const faq = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: `Is ${model.name} back glass repair the same as another iPhone?`,
-        acceptedAnswer: { "@type": "Answer", text: `No. The ${model.name} has its own ${model.size} housing, ${model.port} layout, camera area, adhesive path, and screw positions.` }
-      },
-      {
-        "@type": "Question",
-        name: `What should I check before closing ${model.name}?`,
-        acceptedAnswer: { "@type": "Answer", text: `Check camera openings, wireless charging alignment, flash position, loose glass, cable seating, and even rear-panel pressure before the final seal.` }
-      }
-    ]
-  };
-  return `  <script type="application/ld+json">${JSON.stringify(article)}</script>
-  <script type="application/ld+json">${JSON.stringify(faq)}</script>`;
+  return `  <script type="application/ld+json">${JSON.stringify(breadcrumb)}</script>
+  <script type="application/ld+json">${JSON.stringify(article)}</script>`;
 }
 
 function renderPlanningPage(model, repair, type) {
@@ -554,25 +557,23 @@ function renderJsonLd(model, repair, type, title, description, heroImage, steps)
       { "@type": "ListItem", position: 3, name: title, item: canonical }
     ]
   };
-  const howTo = {
+  const article = {
     "@context": "https://schema.org",
-    "@type": "HowTo",
-    name: title,
+    "@type": "Article",
+    headline: title,
     description,
     image: `${siteUrl}/${heroImage.replace(/^\.\.\/\.\.\//, "")}`,
     inLanguage: "en",
-    tool: repair.tools.map((name) => ({ "@type": "HowToTool", name })),
-    supply: [
-      { "@type": "HowToSupply", name: `${model.name} compatible ${repair.short} replacement parts` },
-      { "@type": "HowToSupply", name: "Replacement adhesive" }
+    datePublished: buildDate,
+    dateModified: buildDate,
+    articleSection: `${model.name} ${repair.label}`,
+    wordCount: steps.reduce((count, step) => count + cleanText(step.text).split(/\s+/).filter(Boolean).length, 0),
+    about: [
+      { "@type": "Thing", name: model.name },
+      { "@type": "Thing", name: repair.label },
+      { "@type": "Thing", name: `${model.name} ${repair.short} repair` }
     ],
-    step: steps.slice(0, 30).map((step, index) => ({
-      "@type": "HowToStep",
-      position: index + 1,
-      name: step.title,
-      text: sentenceLimit(`${stepNote(step, model, repair, steps.length)} ${step.text}`, 420),
-      image: `${siteUrl}/${step.image.replace(/^\.\.\/\.\.\//, "")}`
-    })),
+    author: { "@type": "Organization", name: "FixMob", url: `${siteUrl}/` },
     publisher: {
       "@type": "Organization",
       name: "FixMob",
@@ -581,25 +582,8 @@ function renderJsonLd(model, repair, type, title, description, heroImage, steps)
     },
     mainEntityOfPage: canonical
   };
-  const faq = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: `Can I use another iPhone guide for ${model.name}?`,
-        acceptedAnswer: { "@type": "Answer", text: `Use the ${model.name} page because this ${model.year} ${model.size} model has its own screw positions, cable routing, and ${model.port} layout.` }
-      },
-      {
-        "@type": "Question",
-        name: `What should I test after a ${model.name} ${repair.short} repair?`,
-        acceptedAnswer: { "@type": "Answer", text: `Test ${repair.close} before final adhesive pressure.` }
-      }
-    ]
-  };
   return `  <script type="application/ld+json">${JSON.stringify(breadcrumb)}</script>
-  <script type="application/ld+json">${JSON.stringify(howTo)}</script>
-  <script type="application/ld+json">${JSON.stringify(faq)}</script>`;
+  <script type="application/ld+json">${JSON.stringify(article)}</script>`;
 }
 
 async function main() {
