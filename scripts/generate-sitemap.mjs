@@ -53,10 +53,12 @@ ${urls.map(url => `  <url>
 `;
 
 await writeFile(path.join(root, "sitemap.xml"), xml, "utf8");
+await writeFile(path.join(root, "sitemap"), xml, "utf8");
 await writeFile(path.join(root, "robots.txt"), `User-agent: *
 Allow: /
 
 Sitemap: ${siteUrl}/sitemap.xml
+Sitemap: ${siteUrl}/sitemap
 `, "utf8");
 
 console.log(`Generated sitemap.xml with ${urls.length} URLs.`);

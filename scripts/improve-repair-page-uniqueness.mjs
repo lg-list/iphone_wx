@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const siteUrl = "https://fixmob.tech";
-const buildDate = "2026-07-16";
+const buildDate = "2026-09-03";
 
 const models = [
   ["iphone-x", "iPhone X", "2017", "5.8-inch", "Lightning", "first Face ID iPhone with an OLED display and a compact stainless frame", "#d7dde4"],
@@ -120,11 +120,13 @@ function cleanText(value) {
     .replace(/\s+-\s+own\b/g, " down")
     .replace(/\s+-\s+ntil\b/g, " until")
     .replace(/\s+-\s+irst\b/g, " first")
+    .replace(/\s+-\s+ne\b/g, " one")
     .replace(/\s+-\s+ou\b/g, " you")
     .replace(/\s+-\s+ot\b/g, " not")
     .replace(/\b(\w+)-\s+he\b/g, "$1 the")
     .replace(/\b-\s?ntil\b/g, "until")
     .replace(/\b-\s?irst\b/g, "first")
+    .replace(/\b-\s?ne\b/g, "one")
     .replace(/\b-\s?ou\b/g, "you")
     .replace(/\b-\s?hey\b/g, "they")
     .replace(/\b-\s?own\b/g, "down")
@@ -132,6 +134,11 @@ function cleanText(value) {
     .replace(/\bbatterystepid=\d+\b/gi, "battery")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function sentenceStart(value) {
+  if (!value) return value;
+  return value.charAt(0).toUpperCase() + value.slice(1);
 }
 
 function inferStepTitle(title, text, position, repair) {
@@ -169,6 +176,16 @@ function sentenceLimit(value, max = 270) {
   const cut = text.slice(0, max);
   const lastStop = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("; "), cut.lastIndexOf(", "));
   return `${cut.slice(0, lastStop > 120 ? lastStop + 1 : max).trim()}...`;
+}
+
+function metaDescription(model, repair, stepCount) {
+  const countText = stepCount ? `${stepCount} photos` : "model notes";
+  const symptom = {
+    screen: "cracked glass, black screen, green lines, or touch issues",
+    battery: "weak battery health, fast drain, shutdowns, or charging issues",
+    "back glass": "rear glass cracks, camera ring damage, or wireless charging checks"
+  }[repair.short];
+  return `${model.name} ${repair.short} repair guide for ${symptom}, with ${countText}, safety notes, screw checks, and closing tests.`;
 }
 
 function extractSteps(html, repair) {
@@ -255,7 +272,7 @@ function renderPlanningJsonLd(model, repair, type, title, description, image) {
 
 function renderPlanningPage(model, repair, type) {
   const title = `${model.name} Back Glass Repair Planning Guide`;
-  const description = `${model.name} back glass repair planning guide with model-specific risks, tool notes, rear glass checks, camera safety, wireless charging precautions, and closing checklist.`;
+  const description = metaDescription(model, repair, 0);
   const image = modelImagePath(model);
   const canonical = `${siteUrl}/repairs/${type}/${model.slug}.html`;
   return `<!doctype html>
@@ -455,7 +472,7 @@ function renderBefore(model, repair) {
         </article>
         <article class="guide-panel guide-panel--warning">
           <h3>Main risk on this model</h3>
-          <p>${escapeHtml(model.profile)}. For this ${repair.short} repair, watch ${repair.risk}.</p>
+          <p>${escapeHtml(sentenceStart(model.profile))}. For this ${repair.short} repair, watch ${repair.risk}.</p>
         </article>
         <article class="guide-panel">
           <h3>Prepare the workspace</h3>
@@ -480,11 +497,11 @@ function renderModelSection(model, repair, stepCount) {
       <div class="beginner-grid">
         <article class="guide-panel">
           <h3>Chassis profile</h3>
-          <p>The ${model.year} ${model.name} is a ${model.size} ${model.port} model. ${model.profile}.</p>
+          <p>The ${model.year} ${model.name} is a ${model.size} ${model.port} model. ${escapeHtml(sentenceStart(model.profile))}.</p>
         </article>
         <article class="guide-panel">
           <h3>Repair path</h3>
-          <p>This page focuses on ${repair.goal}. The ${stepCount} photo steps are kept in bench order so the screw table and the visible part position stay aligned.</p>
+          <p>This page focuses on how to ${repair.goal}. The ${stepCount} photo steps are kept in bench order so the screw table and the visible part position stay aligned.</p>
         </article>
         <article class="guide-panel">
           <h3>Tool emphasis</h3>
@@ -493,6 +510,43 @@ function renderModelSection(model, repair, stepCount) {
         <article class="guide-panel">
           <h3>Quality check</h3>
           <p>After the repair, inspect ${repair.close}. If anything fails, reopen before adhesive pressure makes the correction harder.</p>
+        </article>
+      </div>
+    </section>`;
+}
+
+function renderSearchIntentSection(model, repair, steps) {
+  const earlyStep = steps.find((step) => /pentalobe|heat|suction|opening|adhesive/i.test(`${step.title} ${step.text}`)) ?? steps[0];
+  const connectorStep = steps.find((step) => /connector|bracket|cable/i.test(`${step.title} ${step.text}`)) ?? steps[Math.min(steps.length - 1, 4)];
+  const closingStep = steps.slice().reverse().find((step) => /install|seal|close|pressure|test/i.test(`${step.title} ${step.text}`)) ?? steps[steps.length - 1];
+  const partLanguage = {
+    screen: "display assembly, touch response, OLED panel behavior, Face ID sensor area, and waterproof adhesive",
+    battery: "battery health, charging behavior, stretch adhesive, connector seating, and safe lithium-ion handling",
+    "back glass": "rear glass damage, camera ring protection, wireless charging alignment, heat control, and shard cleanup"
+  };
+  const localIntent = {
+    screen: "screen replacement cost, cracked iPhone glass repair, black screen repair, green line display repair, and touch failure troubleshooting",
+    battery: "battery replacement cost, weak battery health, fast drain repair, random shutdown repair, and charging issue diagnosis",
+    "back glass": "back glass replacement cost, cracked rear glass repair, camera lens area damage, wireless charging issue checks, and housing repair planning"
+  };
+  return `    <section class="section" id="search-notes">
+      <div class="section-heading"><p class="eyebrow">US Repair Search Notes</p><h2>${escapeHtml(model.name)} ${escapeHtml(repair.short)} symptoms, parts, and checks</h2></div>
+      <div class="beginner-grid">
+        <article class="guide-panel">
+          <h3>Search intent covered</h3>
+          <p>This guide is written for US repair searches around ${escapeHtml(model.name)} ${escapeHtml(localIntent[repair.short] ?? `${repair.short} repair`)}. It keeps the model name, repair type, symptom, and part checks together on one page.</p>
+        </article>
+        <article class="guide-panel">
+          <h3>Parts to confirm</h3>
+          <p>Before ordering parts, match the exact ${escapeHtml(model.name)} generation, ${escapeHtml(model.size)} display size, ${escapeHtml(model.port)} connector style, and the ${escapeHtml(partLanguage[repair.short])} mentioned in this guide.</p>
+        </article>
+        <article class="guide-panel">
+          <h3>High-value photo checks</h3>
+          <p>Pay extra attention to step ${earlyStep.position} (${escapeHtml(earlyStep.title)}), step ${connectorStep.position} (${escapeHtml(connectorStep.title)}), and step ${closingStep.position} (${escapeHtml(closingStep.title)}). These photos usually decide whether the repair stays clean or needs to be reopened.</p>
+        </article>
+        <article class="guide-panel">
+          <h3>Result to verify</h3>
+          <p>A successful ${escapeHtml(model.name)} ${escapeHtml(repair.short)} repair should pass the closing checks, sit flush around the frame, and show no new warnings, loose brackets, lifted adhesive, or cable pressure marks.</p>
         </article>
       </div>
     </section>`;
@@ -605,13 +659,14 @@ async function main() {
         continue;
       }
       const title = `${model.name} ${repair.label} Guide`;
-      const description = `${model.name} ${repair.short} repair guide for ${repair.problem}, with ${steps.length} photo steps, model-specific safety notes, screw checks, and closing tests.`;
+      const description = metaDescription(model, repair, steps.length);
       const canonical = `${siteUrl}/repairs/${type}/${file}`;
       const heroImage = steps[0].image;
       const ogImage = `${siteUrl}/${heroImage.replace(/^\.\.\/\.\.\//, "")}`;
       const spec = extractSpec(html, model, repair);
       const screwSection = extractSection(html, "screws")
         .replace(/<h2>[\s\S]*?<\/h2>/, `<h2>${escapeHtml(model.name)} ${escapeHtml(repair.short)} screw and bracket table</h2>`)
+        .replace(/\s*<p class="section-lead">Use this table as the [\s\S]*?until reassembly\.<\/p>/g, "")
         .replace('<div class="table-wrap">', `<p class="section-lead">Use this table as the ${model.name} screw map for the ${repair.short} job. If a row mentions a bracket, keep that bracket and its screws together until reassembly.</p>\n      <div class="table-wrap">`);
       const references = extractSection(html, "references") || `    <section class="section" id="references">
       <div class="section-heading"><p class="eyebrow">References</p><h2>Model and safety references</h2></div>
@@ -667,6 +722,7 @@ ${renderTopbar()}
 ${spec}
 ${renderModelSection(model, repair, steps.length)}
 ${renderBefore(model, repair)}
+${renderSearchIntentSection(model, repair, steps)}
     <section class="section" id="steps">
       <div class="section-heading"><p class="eyebrow">Step By Step</p><h2>${escapeHtml(model.name)} ${escapeHtml(repair.short)} photo sequence</h2></div>
       <p class="section-lead">Follow these ${steps.length} photos in order. Each ${model.name} step includes a model note, the action from the photo, and a risk check for the ${repair.short} repair.</p>

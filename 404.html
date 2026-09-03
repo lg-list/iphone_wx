@@ -131,7 +131,13 @@
       };
       input.addEventListener("input", () => {
         const guide = findGuide();
-        suggestion.innerHTML = guide ? `Suggested: <a href="${guide.href}">${guide.label}</a>` : "";
+        suggestion.textContent = "";
+        if (!guide) return;
+        const prefix = document.createTextNode("Suggested: ");
+        const link = document.createElement("a");
+        link.href = guide.href;
+        link.textContent = guide.label;
+        suggestion.append(prefix, link);
       });
       form.addEventListener("submit", (event) => {
         const guide = findGuide();
