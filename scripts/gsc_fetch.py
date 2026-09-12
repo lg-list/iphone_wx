@@ -40,21 +40,43 @@ def write_json(path: Path, data: Any) -> None:
 def error_report(message: str, detail: str = "") -> None:
     report = ROOT / "seo" / "reports" / "gsc-error.md"
     report.parent.mkdir(parents=True, exist_ok=True)
+    safe_message = sanitize_error(message)
+    safe_detail = sanitize_error(detail)
     body = [
         "# Google Search Console Fetch Error",
         "",
         f"- Status: GSC_FETCH_FAILED",
-        f"- Reason: {message}",
+        f"- Reason: {safe_message}",
     ]
-    if detail:
-        body.extend(["", "```text", detail.strip(), "```"])
+    if safe_detail:
+        body.extend(["", "```text", safe_detail.strip(), "```"])
     report.write_text("\n".join(body) + "\n", encoding="utf-8")
+
+
+def sanitize_error(text: str) -> str:
+    if not text:
+        return ""
+    sensitive_markers = [
+        "BEGIN PRIVATE KEY",
+        "PRIVATE KEY",
+        "private_key",
+        "private_key_id",
+        "client_email",
+        "service_account",
+    ]
+    if any(marker in text for marker in sensitive_markers):
+        return "Credential parsing failed. Check that GSC_SERVICE_ACCOUNT_JSON is valid JSON and that URL fields include https://."
+    if len(text) > 500:
+        return text[:500] + "... [truncated]"
+    return text
 
 
 def service_account_info() -> dict[str, Any] | None:
     raw = os.getenv("GSC_SERVICE_ACCOUNT_JSON", "").strip()
     if not raw:
         return None
+    if raw.startswith("{"):
+        return json.loads(raw)
     possible_path = Path(raw)
     if possible_path.exists():
         return json.loads(possible_path.read_text(encoding="utf-8"))

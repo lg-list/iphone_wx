@@ -32,7 +32,7 @@ jobs:
         run: |
           mkdir -p seo/reports
           set +e
-          python scripts/gsc_fetch.py --run-date 2026-09-13 > seo/reports/gsc-verify-output.json
+          python scripts/gsc_fetch.py --run-date 2026-09-13 > /tmp/gsc-verify-output.json
           code=$?
           {
             echo "# GSC Verification Result"
@@ -51,7 +51,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           [ -d seo/data/gsc ] && git add seo/data/gsc
           [ -f seo/reports/gsc-error.md ] && git add seo/reports/gsc-error.md
-          [ -f seo/reports/gsc-verify-output.json ] && git add seo/reports/gsc-verify-output.json
           [ -f seo/reports/gsc-verify-status.md ] && git add seo/reports/gsc-verify-status.md
           git commit -m "Record GSC verification result" || exit 0
           git push
