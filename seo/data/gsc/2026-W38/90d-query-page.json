@@ -1,0 +1,938 @@
+[
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "ind",
+      "MOBILE",
+      "2026-06-15"
+    ],
+    "clicks": 2,
+    "impressions": 2,
+    "ctr": 1,
+    "position": 3,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "ind",
+    "device": "MOBILE",
+    "date": "2026-06-15"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "hkg",
+      "DESKTOP",
+      "2026-08-27"
+    ],
+    "clicks": 1,
+    "impressions": 1,
+    "ctr": 1,
+    "position": 22,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "hkg",
+    "device": "DESKTOP",
+    "date": "2026-08-27"
+  },
+  {
+    "keys": [
+      "apple iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "usa",
+      "DESKTOP",
+      "2026-09-04"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 36,
+    "query": "apple iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "usa",
+    "device": "DESKTOP",
+    "date": "2026-09-04"
+  },
+  {
+    "keys": [
+      "can you replace the battery in an iphone 13 mini",
+      "https://fixmob.tech/repairs/battery/iphone-13-mini.html",
+      "fra",
+      "DESKTOP",
+      "2026-08-02"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 36,
+    "query": "can you replace the battery in an iphone 13 mini",
+    "page": "https://fixmob.tech/repairs/battery/iphone-13-mini.html",
+    "country": "fra",
+    "device": "DESKTOP",
+    "date": "2026-08-02"
+  },
+  {
+    "keys": [
+      "fix mob",
+      "https://fixmob.tech/",
+      "hrv",
+      "MOBILE",
+      "2026-08-27"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5,
+    "query": "fix mob",
+    "page": "https://fixmob.tech/",
+    "country": "hrv",
+    "device": "MOBILE",
+    "date": "2026-08-27"
+  },
+  {
+    "keys": [
+      "fix mob",
+      "https://fixmob.tech/",
+      "mys",
+      "DESKTOP",
+      "2026-08-09"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 23,
+    "query": "fix mob",
+    "page": "https://fixmob.tech/",
+    "country": "mys",
+    "device": "DESKTOP",
+    "date": "2026-08-09"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "bra",
+      "DESKTOP",
+      "2026-08-31"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "bra",
+    "device": "DESKTOP",
+    "date": "2026-08-31"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "bra",
+      "DESKTOP",
+      "2026-09-02"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "bra",
+    "device": "DESKTOP",
+    "date": "2026-09-02"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "bra",
+      "MOBILE",
+      "2026-07-30"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "bra",
+    "device": "MOBILE",
+    "date": "2026-07-30"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "bra",
+      "MOBILE",
+      "2026-08-03"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "bra",
+    "device": "MOBILE",
+    "date": "2026-08-03"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "bra",
+      "MOBILE",
+      "2026-08-27"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 5,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "bra",
+    "device": "MOBILE",
+    "date": "2026-08-27"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "dnk",
+      "MOBILE",
+      "2026-06-21"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "dnk",
+    "device": "MOBILE",
+    "date": "2026-06-21"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "gbr",
+      "MOBILE",
+      "2026-07-24"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "gbr",
+    "device": "MOBILE",
+    "date": "2026-07-24"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "gbr",
+      "MOBILE",
+      "2026-09-10"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "gbr",
+    "device": "MOBILE",
+    "date": "2026-09-10"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "geo",
+      "DESKTOP",
+      "2026-08-01"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "geo",
+    "device": "DESKTOP",
+    "date": "2026-08-01"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "ind",
+      "DESKTOP",
+      "2026-07-21"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "ind",
+    "device": "DESKTOP",
+    "date": "2026-07-21"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "ind",
+      "MOBILE",
+      "2026-06-20"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "ind",
+    "device": "MOBILE",
+    "date": "2026-06-20"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "ind",
+      "MOBILE",
+      "2026-06-21"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "ind",
+    "device": "MOBILE",
+    "date": "2026-06-21"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "lva",
+      "DESKTOP",
+      "2026-06-28"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "lva",
+    "device": "DESKTOP",
+    "date": "2026-06-28"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "rou",
+      "MOBILE",
+      "2026-08-03"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "rou",
+    "device": "MOBILE",
+    "date": "2026-08-03"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "usa",
+      "MOBILE",
+      "2026-08-23"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "usa",
+    "device": "MOBILE",
+    "date": "2026-08-23"
+  },
+  {
+    "keys": [
+      "fixmob",
+      "https://fixmob.tech/",
+      "vnm",
+      "MOBILE",
+      "2026-08-21"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3,
+    "query": "fixmob",
+    "page": "https://fixmob.tech/",
+    "country": "vnm",
+    "device": "MOBILE",
+    "date": "2026-08-21"
+  },
+  {
+    "keys": [
+      "fixmobil",
+      "https://fixmob.tech/",
+      "fra",
+      "DESKTOP",
+      "2026-07-29"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 79,
+    "query": "fixmobil",
+    "page": "https://fixmob.tech/",
+    "country": "fra",
+    "device": "DESKTOP",
+    "date": "2026-07-29"
+  },
+  {
+    "keys": [
+      "fixmobil",
+      "https://fixmob.tech/",
+      "fra",
+      "DESKTOP",
+      "2026-08-12"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 79,
+    "query": "fixmobil",
+    "page": "https://fixmob.tech/",
+    "country": "fra",
+    "device": "DESKTOP",
+    "date": "2026-08-12"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "usa",
+      "DESKTOP",
+      "2026-09-05"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 39,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "usa",
+    "device": "DESKTOP",
+    "date": "2026-09-05"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-08-29"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 63,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-08-29"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-08-30"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 62,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-08-30"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-08-31"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 61,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-08-31"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-01"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 52,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-01"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-02"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 61,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-02"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-03"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 57,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-03"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-04"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 54,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-04"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-06"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 67,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-06"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-08"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 50,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-08"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-09"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 48,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-09"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-10"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 57,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-10"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-08-30"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 64,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-08-30"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-08-31"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 66,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-08-31"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-01"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 67,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-01"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-02"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 63,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-02"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-03"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 57,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-03"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-04"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 57,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-04"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-05"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 74,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-05"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-06"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 57,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-06"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-07"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 57,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-07"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-08"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 53,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-08"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-09"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 62,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-09"
+  },
+  {
+    "keys": [
+      "iphone 17 screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-08"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 53,
+    "query": "iphone 17 screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-08"
+  },
+  {
+    "keys": [
+      "iphone 17 screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-09"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 54,
+    "query": "iphone 17 screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-09"
+  },
+  {
+    "keys": [
+      "iphone 17 screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "DESKTOP",
+      "2026-09-10"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 52,
+    "query": "iphone 17 screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-10"
+  },
+  {
+    "keys": [
+      "iphone 17 screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-08"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 57,
+    "query": "iphone 17 screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-08"
+  },
+  {
+    "keys": [
+      "iphone 17 screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-09"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 52,
+    "query": "iphone 17 screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-09"
+  }
+]

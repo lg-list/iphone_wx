@@ -1,0 +1,62 @@
+[
+  {
+    "keys": [
+      "https://fixmob.tech/"
+    ],
+    "clicks": 3,
+    "impressions": 41,
+    "ctr": 0.07317073170731707,
+    "position": 13.121951219512194,
+    "page": "https://fixmob.tech/"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/backglass/iphone-xs-max.html"
+    ],
+    "clicks": 0,
+    "impressions": 17,
+    "ctr": 0,
+    "position": 20.529411764705884,
+    "page": "https://fixmob.tech/repairs/backglass/iphone-xs-max.html"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/battery/iphone-13-mini.html"
+    ],
+    "clicks": 0,
+    "impressions": 19,
+    "ctr": 0,
+    "position": 12.105263157894736,
+    "page": "https://fixmob.tech/repairs/battery/iphone-13-mini.html"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/screen/iphone-14.html"
+    ],
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 13,
+    "page": "https://fixmob.tech/repairs/screen/iphone-14.html"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/screen/iphone-15-pro-max.html"
+    ],
+    "clicks": 0,
+    "impressions": 15,
+    "ctr": 0,
+    "position": 13.266666666666667,
+    "page": "https://fixmob.tech/repairs/screen/iphone-15-pro-max.html"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html"
+    ],
+    "clicks": 0,
+    "impressions": 36,
+    "ctr": 0,
+    "position": 53.111111111111114,
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html"
+  }
+]

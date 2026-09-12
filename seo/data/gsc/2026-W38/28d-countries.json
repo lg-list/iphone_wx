@@ -1,0 +1,232 @@
+[
+  {
+    "keys": [
+      "hkg"
+    ],
+    "clicks": 1,
+    "impressions": 1,
+    "ctr": 1,
+    "position": 22,
+    "country": "hkg"
+  },
+  {
+    "keys": [
+      "arg"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2,
+    "country": "arg"
+  },
+  {
+    "keys": [
+      "aut"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3,
+    "country": "aut"
+  },
+  {
+    "keys": [
+      "bel"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 18,
+    "country": "bel"
+  },
+  {
+    "keys": [
+      "bra"
+    ],
+    "clicks": 0,
+    "impressions": 4,
+    "ctr": 0,
+    "position": 6.5,
+    "country": "bra"
+  },
+  {
+    "keys": [
+      "can"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 13.5,
+    "country": "can"
+  },
+  {
+    "keys": [
+      "esp"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 12,
+    "country": "esp"
+  },
+  {
+    "keys": [
+      "gbr"
+    ],
+    "clicks": 0,
+    "impressions": 3,
+    "ctr": 0,
+    "position": 5.333333333333333,
+    "country": "gbr"
+  },
+  {
+    "keys": [
+      "hrv"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5,
+    "country": "hrv"
+  },
+  {
+    "keys": [
+      "irn"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 6,
+    "country": "irn"
+  },
+  {
+    "keys": [
+      "khm"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10,
+    "country": "khm"
+  },
+  {
+    "keys": [
+      "kor"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6,
+    "country": "kor"
+  },
+  {
+    "keys": [
+      "kwt"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 14,
+    "country": "kwt"
+  },
+  {
+    "keys": [
+      "mmr"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7,
+    "country": "mmr"
+  },
+  {
+    "keys": [
+      "nga"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11,
+    "country": "nga"
+  },
+  {
+    "keys": [
+      "nld"
+    ],
+    "clicks": 0,
+    "impressions": 2,
+    "ctr": 0,
+    "position": 8.5,
+    "country": "nld"
+  },
+  {
+    "keys": [
+      "nor"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9,
+    "country": "nor"
+  },
+  {
+    "keys": [
+      "nzl"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 2,
+    "country": "nzl"
+  },
+  {
+    "keys": [
+      "qat"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4,
+    "country": "qat"
+  },
+  {
+    "keys": [
+      "rou"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 10,
+    "country": "rou"
+  },
+  {
+    "keys": [
+      "usa"
+    ],
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 16,
+    "country": "usa"
+  },
+  {
+    "keys": [
+      "vnm"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3,
+    "country": "vnm"
+  },
+  {
+    "keys": [
+      "zaf"
+    ],
+    "clicks": 0,
+    "impressions": 31,
+    "ctr": 0,
+    "position": 58.29032258064516,
+    "country": "zaf"
+  }
+]

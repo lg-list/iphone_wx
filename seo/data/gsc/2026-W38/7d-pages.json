@@ -1,0 +1,42 @@
+[
+  {
+    "keys": [
+      "https://fixmob.tech/"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6,
+    "page": "https://fixmob.tech/"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/backglass/iphone-xs-max.html"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 28,
+    "page": "https://fixmob.tech/repairs/backglass/iphone-xs-max.html"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/battery/iphone-13-mini.html"
+    ],
+    "clicks": 0,
+    "impressions": 10,
+    "ctr": 0,
+    "position": 8.5,
+    "page": "https://fixmob.tech/repairs/battery/iphone-13-mini.html"
+  },
+  {
+    "keys": [
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html"
+    ],
+    "clicks": 0,
+    "impressions": 16,
+    "ctr": 0,
+    "position": 50.25,
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html"
+  }
+]

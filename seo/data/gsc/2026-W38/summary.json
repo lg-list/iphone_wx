@@ -1,0 +1,51 @@
+{
+  "property": "sc-domain:fixmob.tech",
+  "run_date": "2026-09-14",
+  "windows": {
+    "7d": {
+      "start": "2026-09-06",
+      "end": "2026-09-12",
+      "clicks": 0.0,
+      "impressions": 15.0,
+      "ctr": 0.0,
+      "average_position": 52.133,
+      "rows": 14
+    },
+    "28d": {
+      "start": "2026-08-16",
+      "end": "2026-09-12",
+      "clicks": 1.0,
+      "impressions": 42.0,
+      "ctr": 0.02381,
+      "average_position": 46.452,
+      "rows": 37
+    },
+    "90d": {
+      "start": "2026-06-15",
+      "end": "2026-09-12",
+      "clicks": 3.0,
+      "impressions": 59.0,
+      "ctr": 0.050847,
+      "average_position": 37.932,
+      "rows": 52
+    },
+    "prev_7d": {
+      "start": "2026-08-31",
+      "end": "2026-09-06",
+      "clicks": 0.0,
+      "impressions": 19.0,
+      "ctr": 0.0,
+      "average_position": 52.368,
+      "rows": 17
+    },
+    "prev_28d": {
+      "start": "2026-07-20",
+      "end": "2026-08-16",
+      "clicks": 0.0,
+      "impressions": 11.0,
+      "ctr": 0.0,
+      "average_position": 23.636,
+      "rows": 10
+    }
+  }
+}
