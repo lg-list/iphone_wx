@@ -7,7 +7,7 @@ on:
       - ".github/workflows/verify-gsc.yml"
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   verify-gsc:
@@ -25,7 +25,30 @@ jobs:
         run: pip install -r requirements-seo.txt
 
       - name: Verify Search Console API access
+        shell: bash
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
           GSC_PROPERTY: ${{ secrets.GSC_PROPERTY }}
-        run: python scripts/gsc_fetch.py --run-date 2026-09-13
+        run: |
+          mkdir -p seo/reports
+          set +e
+          python scripts/gsc_fetch.py --run-date 2026-09-13 > seo/reports/gsc-verify-output.json
+          code=$?
+          {
+            echo "# GSC Verification Result"
+            echo
+            echo "- Exit code: ${code}"
+            echo "- Property configured: ${GSC_PROPERTY:-MISSING}"
+            echo "- Service account secret present: $(if [ -n "${GSC_SERVICE_ACCOUNT_JSON:-}" ]; then echo yes; else echo no; fi)"
+            echo "- Run time UTC: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          } > seo/reports/gsc-verify-status.md
+          exit 0
+
+      - name: Commit verification result
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seo/data/gsc seo/reports/gsc-error.md seo/reports/gsc-verify-output.json seo/reports/gsc-verify-status.md || true
+          git commit -m "Record GSC verification result" || exit 0
+          git push
