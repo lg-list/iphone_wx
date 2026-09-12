@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const siteUrl = "https://fixmob.tech";
-const buildDate = "2026-09-03";
+const buildDate = "2026-09-05";
 
 const models = [
   ["iphone-x", "iPhone X", "2017", "5.8-inch", "Lightning", "first Face ID iPhone with an OLED display and a compact stainless frame", "#d7dde4"],
@@ -115,15 +115,25 @@ function cleanText(value) {
     .replace(/\bherestepid=\d+\b/gi, "the related step")
     .replace(/\b(\w+)stepid=\d+\|?/gi, "$1")
     .replace(/\bstepid=\d+\|?/gi, "")
+    .replace(/\s+-\s+charged\b/g, " a charged")
     .replace(/\s+-\s+he\b/g, " the")
+    .replace(/\s+-\s+his\b/g, " this")
     .replace(/\s+-\s+hey\b/g, " they")
+    .replace(/\s+-\s+on't\b/g, " don't")
+    .replace(/\s+-\s+r\b/g, " or")
     .replace(/\s+-\s+own\b/g, " down")
     .replace(/\s+-\s+ntil\b/g, " until")
     .replace(/\s+-\s+irst\b/g, " first")
+    .replace(/\s+-\s+ollow\b/g, " follow")
     .replace(/\s+-\s+ne\b/g, " one")
     .replace(/\s+-\s+ou\b/g, " you")
     .replace(/\s+-\s+ot\b/g, " not")
     .replace(/\b(\w+)-\s+he\b/g, "$1 the")
+    .replace(/\b-\s?his\b/g, "this")
+    .replace(/\b-\s?charged\b/g, "a charged")
+    .replace(/\b-\s?on't\b/g, "don't")
+    .replace(/\b-\s?r\b/g, "or")
+    .replace(/\b-\s?ollow\b/g, "follow")
     .replace(/\b-\s?ntil\b/g, "until")
     .replace(/\b-\s?irst\b/g, "first")
     .replace(/\b-\s?ne\b/g, "one")
@@ -132,6 +142,10 @@ function cleanText(value) {
     .replace(/\b-\s?own\b/g, "down")
     .replace(/\b-\s?ot\b/g, "not")
     .replace(/\bbatterystepid=\d+\b/gi, "battery")
+    .replace(/repair a charged/g, "repair. A charged")
+    .replace(/covered this will help/g, "covered. This will help")
+    .replace(/battery follow/g, "battery. Follow")
+    .replace(/hotter than this the battery/g, "hotter than this. The battery")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -185,7 +199,7 @@ function metaDescription(model, repair, stepCount) {
     battery: "weak battery health, fast drain, shutdowns, or charging issues",
     "back glass": "rear glass cracks, camera ring damage, or wireless charging checks"
   }[repair.short];
-  return `${model.name} ${repair.short} repair guide for ${symptom}, with ${countText}, safety notes, screw checks, and closing tests.`;
+  return `${model.name} ${repair.short} repair guide for ${symptom}, with ${countText}, screw checks, and closing tests.`;
 }
 
 function extractSteps(html, repair) {
@@ -271,7 +285,7 @@ function renderPlanningJsonLd(model, repair, type, title, description, image) {
 }
 
 function renderPlanningPage(model, repair, type) {
-  const title = `${model.name} Back Glass Repair Planning Guide`;
+  const title = `${model.name} Back Glass Repair Planning Guide | FixMob`;
   const description = metaDescription(model, repair, 0);
   const image = modelImagePath(model);
   const canonical = `${siteUrl}/repairs/${type}/${model.slug}.html`;
@@ -515,6 +529,24 @@ function renderModelSection(model, repair, stepCount) {
     </section>`;
 }
 
+function renderQuickAnswerSection(model, repair, steps) {
+  const firstStep = steps[0]?.title ?? "prepare the repair";
+  const lastStep = steps[steps.length - 1]?.title ?? "run closing checks";
+  return `    <section class="section" id="quick-answer">
+      <div class="section-heading"><p class="eyebrow">Quick Answer</p><h2>${escapeHtml(model.name)} ${escapeHtml(repair.short)} repair summary</h2></div>
+      <div class="beginner-grid">
+        <article class="guide-panel">
+          <h3>Can you replace the ${escapeHtml(repair.short)} on ${escapeHtml(model.name)}?</h3>
+          <p>Yes, a ${model.name} ${repair.short} repair is possible when the exact model is matched first, the battery is safely discharged, and every bracket screw is kept in its original location. This guide covers ${steps.length || "model-specific"} photo checkpoints from ${escapeHtml(firstStep)} through ${escapeHtml(lastStep)}.</p>
+        </article>
+        <article class="guide-panel">
+          <h3>What matters most for this repair?</h3>
+          <p>The most important checks are ${repair.risk}. For US repair searches, this page connects the ${model.year} ${model.size} ${model.port} model, common symptoms, photo sequence, screw table, and closing tests in one crawlable guide.</p>
+        </article>
+      </div>
+    </section>`;
+}
+
 function renderSearchIntentSection(model, repair, steps) {
   const earlyStep = steps.find((step) => /pentalobe|heat|suction|opening|adhesive/i.test(`${step.title} ${step.text}`)) ?? steps[0];
   const connectorStep = steps.find((step) => /connector|bracket|cable/i.test(`${step.title} ${step.text}`)) ?? steps[Math.min(steps.length - 1, 4)];
@@ -552,25 +584,47 @@ function renderSearchIntentSection(model, repair, steps) {
     </section>`;
 }
 
+function faqItems(model, repair) {
+  return [
+    {
+      question: "Can I use a guide from another iPhone?",
+      answer: `No. Similar generations often share repair ideas, but ${model.name} has its own ${model.size} housing, ${model.port} port layout, screw positions, and cable routing.`
+    },
+    {
+      question: "What should I test before closing?",
+      answer: `For this ${repair.short} repair, test ${repair.close}. Do this before final adhesive pressure.`
+    },
+    {
+      question: "Why use the screw table?",
+      answer: `The table highlights steps where length or bracket position matters. Mixed screws are one of the easiest ways to turn a simple ${model.name} repair into board damage.`
+    },
+    {
+      question: "When should I stop?",
+      answer: "Stop if heat becomes excessive, a connector will not align, the battery bends, or glass fragments move toward cameras, cables, or the board."
+    }
+  ];
+}
+
 function renderFaq(model, repair) {
+  const items = faqItems(model, repair);
   return `    <section class="section" id="faq">
       <div class="section-heading"><p class="eyebrow">FAQ</p><h2>${escapeHtml(model.name)} ${escapeHtml(repair.short)} repair questions</h2></div>
       <div class="beginner-grid">
         <article class="guide-panel">
-          <h3>Can I use a guide from another iPhone?</h3>
-          <p>No. Similar generations often share repair ideas, but ${model.name} has its own ${model.size} housing, ${model.port} port layout, screw positions, and cable routing.</p>
+          <h3>${escapeHtml(items[0].question)}</h3>
+          <p>${escapeHtml(items[0].answer)}</p>
         </article>
         <article class="guide-panel">
-          <h3>What should I test before closing?</h3>
-          <p>For this ${repair.short} repair, test ${repair.close}. Do this before final adhesive pressure.</p>
+          <h3>${escapeHtml(items[1].question)}</h3>
+          <p>${escapeHtml(items[1].answer)}</p>
         </article>
         <article class="guide-panel">
-          <h3>Why use the screw table?</h3>
-          <p>The table highlights steps where length or bracket position matters. Mixed screws are one of the easiest ways to turn a simple ${model.name} repair into board damage.</p>
+          <h3>${escapeHtml(items[2].question)}</h3>
+          <p>${escapeHtml(items[2].answer)}</p>
         </article>
         <article class="guide-panel">
-          <h3>When should I stop?</h3>
-          <p>Stop if heat becomes excessive, a connector will not align, the battery bends, or glass fragments move toward cameras, cables, or the board.</p>
+          <h3>${escapeHtml(items[3].question)}</h3>
+          <p>${escapeHtml(items[3].answer)}</p>
         </article>
       </div>
     </section>`;
@@ -636,8 +690,45 @@ function renderJsonLd(model, repair, type, title, description, heroImage, steps)
     },
     mainEntityOfPage: canonical
   };
+  const howToSteps = steps.slice(0, 20).map((step) => ({
+    "@type": "HowToStep",
+    position: step.position,
+    name: step.title,
+    text: sentenceLimit(step.text || `Complete this ${repair.short} step on ${model.name}.`, 280),
+    image: step.image ? `${siteUrl}/${step.image.replace(/^\.\.\/\.\.\//, "")}` : undefined
+  }));
+  const howTo = {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    name: title,
+    description,
+    image: `${siteUrl}/${heroImage.replace(/^\.\.\/\.\.\//, "")}`,
+    inLanguage: "en",
+    datePublished: buildDate,
+    dateModified: buildDate,
+    supply: [
+      { "@type": "HowToSupply", name: `${model.name} replacement ${repair.short} part` },
+      { "@type": "HowToSupply", name: "Replacement adhesive" }
+    ],
+    tool: repair.tools.map((tool) => ({ "@type": "HowToTool", name: tool })),
+    step: howToSteps
+  };
+  const faq = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqItems(model, repair).map((item) => ({
+      "@type": "Question",
+      name: `${model.name}: ${item.question}`,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer
+      }
+    }))
+  };
   return `  <script type="application/ld+json">${JSON.stringify(breadcrumb)}</script>
-  <script type="application/ld+json">${JSON.stringify(article)}</script>`;
+  <script type="application/ld+json">${JSON.stringify(article)}</script>
+  <script type="application/ld+json">${JSON.stringify(howTo)}</script>
+  <script type="application/ld+json">${JSON.stringify(faq)}</script>`;
 }
 
 async function main() {
@@ -658,7 +749,7 @@ async function main() {
         updated += 1;
         continue;
       }
-      const title = `${model.name} ${repair.label} Guide`;
+      const title = `${model.name} ${repair.label} Guide | FixMob`;
       const description = metaDescription(model, repair, steps.length);
       const canonical = `${siteUrl}/repairs/${type}/${file}`;
       const heroImage = steps[0].image;
@@ -721,6 +812,7 @@ ${renderTopbar()}
   <main>
 ${spec}
 ${renderModelSection(model, repair, steps.length)}
+${renderQuickAnswerSection(model, repair, steps)}
 ${renderBefore(model, repair)}
 ${renderSearchIntentSection(model, repair, steps)}
     <section class="section" id="steps">

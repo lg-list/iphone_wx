@@ -4,4 +4,12 @@ node_modules/
 
 New project/
 assets/repair-photos/local/*.ps1
+.agents/
+skills-lock.json
 
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/

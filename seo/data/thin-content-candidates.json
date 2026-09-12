@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://fixmob.tech/about.html",
+    "word_count": 312,
+    "photo_count": 1,
+    "recommended_status": "IMPROVE",
+    "reason": "Short page or missing extractable answer structure."
+  },
+  {
+    "url": "https://fixmob.tech/contact.html",
+    "word_count": 253,
+    "photo_count": 1,
+    "recommended_status": "IMPROVE",
+    "reason": "Short page or missing extractable answer structure."
+  },
+  {
+    "url": "https://fixmob.tech/privacy.html",
+    "word_count": 305,
+    "photo_count": 1,
+    "recommended_status": "IMPROVE",
+    "reason": "Short page or missing extractable answer structure."
+  },
+  {
+    "url": "https://fixmob.tech/terms.html",
+    "word_count": 330,
+    "photo_count": 1,
+    "recommended_status": "IMPROVE",
+    "reason": "Short page or missing extractable answer structure."
+  }
+]

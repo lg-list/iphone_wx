@@ -1,0 +1,79 @@
+name: Weekly FixMob SEO
+
+on:
+  schedule:
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-seo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements-seo.txt
+
+      - name: Run weekly SEO operator
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_PROPERTY: ${{ secrets.GSC_PROPERTY }}
+        run: python scripts/seo_operator.py weekly
+
+      - name: Build generated assets
+        run: |
+          node scripts/generate-category-pages.mjs
+          node scripts/generate-html-sitemap.mjs
+          node scripts/generate-sitemap.mjs
+          node scripts/generate-llms-files.mjs
+
+      - name: Guard against unsafe bulk changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          deleted=$(git status --porcelain | awk '$1 ~ /^D/ { count++ } END { print count+0 }')
+          changed_images=$(git status --porcelain -- assets/repair-photos assets/home | wc -l)
+          if [ "$deleted" -gt 5 ]; then
+            echo "Too many deleted files for autonomous SEO workflow: $deleted"
+            exit 1
+          fi
+          if [ "$changed_images" -gt 0 ]; then
+            echo "Image directory changes require human review."
+            git status --porcelain -- assets/repair-photos assets/home
+            exit 1
+          fi
+
+      - name: Check diff
+        run: git diff --check
+
+      - name: Commit weekly SEO updates
+        shell: bash
+        run: |
+          if git diff --quiet && [ -z "$(git status --porcelain)" ]; then
+            echo "No SEO changes to commit."
+            exit 0
+          fi
+          week=$(date -u +"%G-W%V")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add robots.txt sitemap sitemap.xml llms.txt llms-full.txt NEXT-WEEK.md seo scripts requirements-seo.txt site-map.html screen-repair-guides.html battery-replacement-guides.html back-glass-repair-guides.html repairs
+          git commit -m "Weekly FixMob SEO ${week}" || exit 0
+          git push

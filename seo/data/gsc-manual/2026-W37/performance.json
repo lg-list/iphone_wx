@@ -1,0 +1,621 @@
+{
+  "source_file": "C:\\Users\\Administrator\\Downloads\\fixmob.tech-Performance-on-Search-2026-09-11.xlsx",
+  "queries": [
+    {
+      "query": "fixmob",
+      "clicks": 3.0,
+      "impressions": 22.0,
+      "ctr": 0.1364,
+      "position": 6.5
+    },
+    {
+      "query": "iphone 17 pro screen replacement",
+      "clicks": 0.0,
+      "impressions": 24.0,
+      "ctr": 0.0,
+      "position": 58.79
+    },
+    {
+      "query": "fix mob",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 14.0
+    },
+    {
+      "query": "iphone 17 screen replacement",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 55.0
+    },
+    {
+      "query": "fixmobil",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 79.0
+    },
+    {
+      "query": "apple iphone 17 pro screen replacement",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 36.0
+    },
+    {
+      "query": "can you replace the battery in an iphone 13 mini",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 36.0
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://fixmob.tech/",
+      "clicks": 3.0,
+      "impressions": 44.0,
+      "ctr": 0.0682,
+      "position": 12.52
+    },
+    {
+      "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "clicks": 0.0,
+      "impressions": 28.0,
+      "ctr": 0.0,
+      "position": 55.68
+    },
+    {
+      "page": "https://fixmob.tech/repairs/backglass/iphone-xs-max.html",
+      "clicks": 0.0,
+      "impressions": 17.0,
+      "ctr": 0.0,
+      "position": 20.53
+    },
+    {
+      "page": "https://fixmob.tech/repairs/screen/iphone-15-pro-max.html",
+      "clicks": 0.0,
+      "impressions": 15.0,
+      "ctr": 0.0,
+      "position": 13.27
+    },
+    {
+      "page": "https://fixmob.tech/repairs/battery/iphone-13-mini.html",
+      "clicks": 0.0,
+      "impressions": 14.0,
+      "ctr": 0.0,
+      "position": 12.86
+    },
+    {
+      "page": "https://fixmob.tech/repairs/screen/iphone-14.html",
+      "clicks": 0.0,
+      "impressions": 10.0,
+      "ctr": 0.0,
+      "position": 13.0
+    }
+  ],
+  "countries": [
+    {
+      "country": "印度",
+      "clicks": 2.0,
+      "impressions": 8.0,
+      "ctr": 0.25,
+      "position": 4.38
+    },
+    {
+      "country": "中国香港",
+      "clicks": 1.0,
+      "impressions": 1.0,
+      "ctr": 1.0,
+      "position": 22.0
+    },
+    {
+      "country": "南非",
+      "clicks": 0.0,
+      "impressions": 25.0,
+      "ctr": 0.0,
+      "position": 59.28
+    },
+    {
+      "country": "美国",
+      "clicks": 0.0,
+      "impressions": 24.0,
+      "ctr": 0.0,
+      "position": 18.25
+    },
+    {
+      "country": "巴西",
+      "clicks": 0.0,
+      "impressions": 8.0,
+      "ctr": 0.0,
+      "position": 7.25
+    },
+    {
+      "country": "英国",
+      "clicks": 0.0,
+      "impressions": 5.0,
+      "ctr": 0.0,
+      "position": 5.6
+    },
+    {
+      "country": "马来西亚",
+      "clicks": 0.0,
+      "impressions": 3.0,
+      "ctr": 0.0,
+      "position": 14.0
+    },
+    {
+      "country": "越南",
+      "clicks": 0.0,
+      "impressions": 3.0,
+      "ctr": 0.0,
+      "position": 15.0
+    },
+    {
+      "country": "墨西哥",
+      "clicks": 0.0,
+      "impressions": 3.0,
+      "ctr": 0.0,
+      "position": 16.67
+    },
+    {
+      "country": "法国",
+      "clicks": 0.0,
+      "impressions": 3.0,
+      "ctr": 0.0,
+      "position": 64.67
+    },
+    {
+      "country": "伊朗",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 6.0
+    },
+    {
+      "country": "卡塔尔",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 6.5
+    },
+    {
+      "country": "荷兰",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 8.5
+    },
+    {
+      "country": "加拿大",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 9.0
+    },
+    {
+      "country": "罗马尼亚",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 9.0
+    },
+    {
+      "country": "摩洛哥",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 16.0
+    },
+    {
+      "country": "比利时",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 18.0
+    },
+    {
+      "country": "沙特阿拉伯",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 21.0
+    },
+    {
+      "country": "新加坡",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 21.5
+    },
+    {
+      "country": "菲律宾",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 25.5
+    },
+    {
+      "country": "泰国",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 36.0
+    },
+    {
+      "country": "阿根廷",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 2.0
+    },
+    {
+      "country": "新西兰",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 2.0
+    },
+    {
+      "country": "奥地利",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 3.0
+    },
+    {
+      "country": "丹麦",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 4.0
+    },
+    {
+      "country": "克罗地亚",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 5.0
+    },
+    {
+      "country": "意大利",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 5.0
+    },
+    {
+      "country": "巴哈马",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 6.0
+    },
+    {
+      "country": "格鲁吉亚",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 6.0
+    },
+    {
+      "country": "韩国",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 6.0
+    },
+    {
+      "country": "乌克兰",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 6.0
+    },
+    {
+      "country": "匈牙利",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 7.0
+    },
+    {
+      "country": "缅甸",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 7.0
+    },
+    {
+      "country": "挪威",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 9.0
+    },
+    {
+      "country": "柬埔寨",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 10.0
+    },
+    {
+      "country": "拉脱维亚",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 10.0
+    },
+    {
+      "country": "巴勒斯坦",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 10.0
+    },
+    {
+      "country": "波斯尼亚和黑塞哥维那",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 11.0
+    },
+    {
+      "country": "危地马拉",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 11.0
+    },
+    {
+      "country": "尼日利亚",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 11.0
+    },
+    {
+      "country": "科威特",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 14.0
+    },
+    {
+      "country": "肯尼亚",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 15.0
+    },
+    {
+      "country": "伊拉克",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 26.0
+    },
+    {
+      "country": "俄罗斯",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 34.0
+    }
+  ],
+  "devices": [
+    {
+      "device": "移动设备",
+      "clicks": 2.0,
+      "impressions": 62.0,
+      "ctr": 0.0323,
+      "position": 17.65
+    },
+    {
+      "device": "桌面",
+      "clicks": 1.0,
+      "impressions": 65.0,
+      "ctr": 0.0154,
+      "position": 28.69
+    },
+    {
+      "device": "平板电脑",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 9.0
+    }
+  ],
+  "summary": {
+    "clicks": 3.0,
+    "impressions": 54.0,
+    "ctr": 0.055556,
+    "average_position": 35.59
+  },
+  "opportunities": [
+    {
+      "model": "",
+      "repair_type": "unknown",
+      "query": "",
+      "page": "https://fixmob.tech/",
+      "clicks": 3.0,
+      "impressions": 44.0,
+      "ctr": 0.0682,
+      "position": 12.52,
+      "growth": 0,
+      "score": 67.2,
+      "reason": "Manual GSC export page opportunity: 44 impressions, 3 clicks, average position 12.52.",
+      "recommended_action": "Improve internal links and above-the-fold answer clarity for this exact URL."
+    },
+    {
+      "model": "",
+      "repair_type": "unknown",
+      "query": "fixmob",
+      "page": "",
+      "clicks": 3.0,
+      "impressions": 22.0,
+      "ctr": 0.1364,
+      "position": 6.5,
+      "growth": 0,
+      "score": 67.1,
+      "reason": "Manual GSC export: 22 impressions, 3 clicks, average position 6.50.",
+      "recommended_action": "Review snippet and intent. Apply title/meta changes only after mapping to the exact matching page."
+    },
+    {
+      "model": "iPhone 15 Pro Max",
+      "repair_type": "screen",
+      "query": "",
+      "page": "https://fixmob.tech/repairs/screen/iphone-15-pro-max.html",
+      "clicks": 0.0,
+      "impressions": 15.0,
+      "ctr": 0.0,
+      "position": 13.27,
+      "growth": 0,
+      "score": 54.25,
+      "reason": "Manual GSC export page opportunity: 15 impressions, 0 clicks, average position 13.27.",
+      "recommended_action": "Improve internal links and above-the-fold answer clarity for this exact URL."
+    },
+    {
+      "model": "iPhone 13 Mini",
+      "repair_type": "battery",
+      "query": "",
+      "page": "https://fixmob.tech/repairs/battery/iphone-13-mini.html",
+      "clicks": 0.0,
+      "impressions": 14.0,
+      "ctr": 0.0,
+      "position": 12.86,
+      "growth": 0,
+      "score": 53.7,
+      "reason": "Manual GSC export page opportunity: 14 impressions, 0 clicks, average position 12.86.",
+      "recommended_action": "Improve internal links and above-the-fold answer clarity for this exact URL."
+    },
+    {
+      "model": "iPhone 14",
+      "repair_type": "screen",
+      "query": "",
+      "page": "https://fixmob.tech/repairs/screen/iphone-14.html",
+      "clicks": 0.0,
+      "impressions": 10.0,
+      "ctr": 0.0,
+      "position": 13.0,
+      "growth": 0,
+      "score": 51.5,
+      "reason": "Manual GSC export page opportunity: 10 impressions, 0 clicks, average position 13.00.",
+      "recommended_action": "Improve internal links and above-the-fold answer clarity for this exact URL."
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "repair_type": "screen",
+      "query": "",
+      "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "clicks": 0.0,
+      "impressions": 28.0,
+      "ctr": 0.0,
+      "position": 55.68,
+      "growth": 0,
+      "score": 45.4,
+      "reason": "Manual GSC export page opportunity: 28 impressions, 0 clicks, average position 55.68.",
+      "recommended_action": "Improve internal links and above-the-fold answer clarity for this exact URL."
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "repair_type": "screen",
+      "query": "iphone 17 pro screen replacement",
+      "page": "",
+      "clicks": 0.0,
+      "impressions": 24.0,
+      "ctr": 0.0,
+      "position": 58.79,
+      "growth": 0,
+      "score": 43.2,
+      "reason": "Manual GSC export: 24 impressions, 0 clicks, average position 58.79.",
+      "recommended_action": "Review snippet and intent. Apply title/meta changes only after mapping to the exact matching page."
+    },
+    {
+      "model": "iPhone X",
+      "repair_type": "backglass",
+      "query": "",
+      "page": "https://fixmob.tech/repairs/backglass/iphone-xs-max.html",
+      "clicks": 0.0,
+      "impressions": 17.0,
+      "ctr": 0.0,
+      "position": 20.53,
+      "growth": 0,
+      "score": 39.35,
+      "reason": "Manual GSC export page opportunity: 17 impressions, 0 clicks, average position 20.53.",
+      "recommended_action": "Improve internal links and above-the-fold answer clarity for this exact URL."
+    },
+    {
+      "model": "",
+      "repair_type": "unknown",
+      "query": "fix mob",
+      "page": "",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 14.0,
+      "growth": 0,
+      "score": 29.1,
+      "reason": "Manual GSC export: 2 impressions, 0 clicks, average position 14.00.",
+      "recommended_action": "Review snippet and intent. Apply title/meta changes only after mapping to the exact matching page."
+    },
+    {
+      "model": "iPhone 17",
+      "repair_type": "screen",
+      "query": "iphone 17 screen replacement",
+      "page": "",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 55.0,
+      "growth": 0,
+      "score": 13.1,
+      "reason": "Manual GSC export: 2 impressions, 0 clicks, average position 55.00.",
+      "recommended_action": "Review snippet and intent. Apply title/meta changes only after mapping to the exact matching page."
+    },
+    {
+      "model": "iPhone 17 Pro",
+      "repair_type": "screen",
+      "query": "apple iphone 17 pro screen replacement",
+      "page": "",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 36.0,
+      "growth": 0,
+      "score": 12.55,
+      "reason": "Manual GSC export: 1 impressions, 0 clicks, average position 36.00.",
+      "recommended_action": "Review snippet and intent. Apply title/meta changes only after mapping to the exact matching page."
+    },
+    {
+      "model": "iPhone 13 Mini",
+      "repair_type": "battery",
+      "query": "can you replace the battery in an iphone 13 mini",
+      "page": "",
+      "clicks": 0.0,
+      "impressions": 1.0,
+      "ctr": 0.0,
+      "position": 36.0,
+      "growth": 0,
+      "score": 12.55,
+      "reason": "Manual GSC export: 1 impressions, 0 clicks, average position 36.00.",
+      "recommended_action": "Review snippet and intent. Apply title/meta changes only after mapping to the exact matching page."
+    },
+    {
+      "model": "",
+      "repair_type": "unknown",
+      "query": "fixmobil",
+      "page": "",
+      "clicks": 0.0,
+      "impressions": 2.0,
+      "ctr": 0.0,
+      "position": 79.0,
+      "growth": 0,
+      "score": 4.1,
+      "reason": "Manual GSC export: 2 impressions, 0 clicks, average position 79.00.",
+      "recommended_action": "Review snippet and intent. Apply title/meta changes only after mapping to the exact matching page."
+    }
+  ]
+}

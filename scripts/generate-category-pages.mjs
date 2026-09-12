@@ -7,7 +7,7 @@ const publisherId = "ca-pub-3173901746543144";
 const categories = {
   screen: {
     file: "screen-repair-guides.html",
-    title: "iPhone Screen Replacement Guides by Model",
+    title: "iPhone Screen Replacement Guides by Model | FixMob",
     heading: "iPhone screen replacement guides",
     description:
       "Browse iPhone screen replacement guides by model, with repair photos, safety notes, display cable warnings, tools, and screw measurements.",
@@ -20,7 +20,7 @@ const categories = {
   },
   battery: {
     file: "battery-replacement-guides.html",
-    title: "iPhone Battery Replacement Guides by Model",
+    title: "iPhone Battery Replacement Guides by Model | FixMob",
     heading: "iPhone battery replacement guides",
     description:
       "Browse iPhone battery replacement guides by model, with safe discharge instructions, repair photos, adhesive removal notes, tools, and screw measurements.",
@@ -33,7 +33,7 @@ const categories = {
   },
   backglass: {
     file: "back-glass-repair-guides.html",
-    title: "iPhone Back Glass Repair Guides by Model",
+    title: "iPhone Back Glass Repair Guides by Model | FixMob",
     heading: "iPhone back glass repair guides",
     description:
       "Browse iPhone back glass repair guides by model, with repair photos, heat and glass safety notes, wireless charging precautions, and screw maps.",

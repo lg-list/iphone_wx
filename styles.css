@@ -181,10 +181,14 @@ h3 {
   box-shadow: var(--shadow);
 }
 
+.hero-gallery picture,
 .hero-gallery img {
   display: block;
   width: 100%;
   max-width: 100%;
+}
+
+.hero-gallery img {
   height: 430px;
   object-fit: cover;
   object-position: center;

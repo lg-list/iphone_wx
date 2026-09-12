@@ -1,0 +1,1118 @@
+{
+  "pages": [
+    {
+      "url": "/404.html",
+      "title": "Page Not Found | FixMob iPhone Repair Guides",
+      "description": "The requested FixMob iPhone repair guide could not be found. Search by model or open the screen, battery, back glass, and screw photo libraries.",
+      "canonical": "https://fixmob.tech/404.html",
+      "h1_count": 1,
+      "schema_count": 0,
+      "word_count": 113,
+      "indexable": false
+    },
+    {
+      "url": "/about.html",
+      "title": "About FixMob iPhone Repair Guides for DIY Repairs",
+      "description": "Learn how FixMob organizes US-focused iPhone repair guides with model-specific photos, screw tables, safety notes, and clear repair status labels.",
+      "canonical": "https://fixmob.tech/about.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 312,
+      "indexable": true
+    },
+    {
+      "url": "/back-glass-repair-guides.html",
+      "title": "iPhone Back Glass Repair Guides by Model | FixMob",
+      "description": "Browse iPhone back glass repair guides by model, with repair photos, heat and glass safety notes, wireless charging precautions, and screw maps.",
+      "canonical": "https://fixmob.tech/back-glass-repair-guides.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 747,
+      "indexable": true
+    },
+    {
+      "url": "/battery-replacement-guides.html",
+      "title": "iPhone Battery Replacement Guides by Model | FixMob",
+      "description": "Browse iPhone battery replacement guides by model, with safe discharge instructions, repair photos, adhesive removal notes, tools, and screw measurements.",
+      "canonical": "https://fixmob.tech/battery-replacement-guides.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 712,
+      "indexable": true
+    },
+    {
+      "url": "/contact.html",
+      "title": "Contact FixMob for iPhone Repair Guide Corrections",
+      "description": "Contact FixMob for iPhone repair guide corrections, broken image reports, sitemap feedback, privacy questions, policy questions, and website issues.",
+      "canonical": "https://fixmob.tech/contact.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 253,
+      "indexable": true
+    },
+    {
+      "url": "/",
+      "title": "FixMob | iPhone Repair Guides for Screens, Batteries, Back Glass",
+      "description": "US iPhone repair guide hub for screen replacement, battery replacement, back glass repair, screw maps, local photos, tools, and model safety checks.",
+      "canonical": "https://fixmob.tech/",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 647,
+      "indexable": true
+    },
+    {
+      "url": "/privacy.html",
+      "title": "FixMob Privacy Policy for iPhone Repair Visitors",
+      "description": "Read the FixMob privacy policy for iPhone repair guide visitors, including hosting logs, cookies, advertising, analytics, affiliate links, and choices.",
+      "canonical": "https://fixmob.tech/privacy.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 305,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-11-pro-max.html",
+      "title": "iPhone 11 Pro Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 11 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-11-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1735,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-11-pro.html",
+      "title": "iPhone 11 Pro Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 11 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-11-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1682,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-11.html",
+      "title": "iPhone 11 Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 11 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-11.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1641,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-12-mini.html",
+      "title": "iPhone 12 mini Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 12 mini back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-12-mini.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1694,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-12-pro-max.html",
+      "title": "iPhone 12 Pro Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 12 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-12-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1744,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-12-pro.html",
+      "title": "iPhone 12 Pro Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 12 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-12-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1694,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-12.html",
+      "title": "iPhone 12 Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 12 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 7 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-12.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1567,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-13-mini.html",
+      "title": "iPhone 13 mini Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 13 mini back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-13-mini.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1690,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-13-pro-max.html",
+      "title": "iPhone 13 Pro Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 13 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-13-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1743,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-13-pro.html",
+      "title": "iPhone 13 Pro Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 13 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-13-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1687,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-13.html",
+      "title": "iPhone 13 Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 13 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-13.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1637,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-14-plus.html",
+      "title": "iPhone 14 Plus Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 14 Plus back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 21 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-14-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3043,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-14-pro-max.html",
+      "title": "iPhone 14 Pro Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 14 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-14-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1743,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-14-pro.html",
+      "title": "iPhone 14 Pro Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 14 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-14-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1690,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-14.html",
+      "title": "iPhone 14 Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 14 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 21 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-14.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 2975,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-15-plus.html",
+      "title": "iPhone 15 Plus Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 15 Plus back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 48 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-15-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5670,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-15-pro-max.html",
+      "title": "iPhone 15 Pro Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 15 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 43 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-15-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5097,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-15-pro.html",
+      "title": "iPhone 15 Pro Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 15 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 43 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-15-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4950,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-15.html",
+      "title": "iPhone 15 Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 15 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 48 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-15.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5470,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-16-plus.html",
+      "title": "iPhone 16 Plus Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 16 Plus back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-16-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5426,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-16-pro-max.html",
+      "title": "iPhone 16 Pro Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 16 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 46 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-16-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5455,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-16-pro.html",
+      "title": "iPhone 16 Pro Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 16 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 46 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-16-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5352,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-16.html",
+      "title": "iPhone 16 Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 16 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-16.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5203,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-16e.html",
+      "title": "iPhone 16e Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 16e back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-16e.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4995,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-17-pro-max.html",
+      "title": "iPhone 17 Pro Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 17 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 26 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-17-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3409,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-17-pro.html",
+      "title": "iPhone 17 Pro Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 17 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 26 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-17-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3318,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-17.html",
+      "title": "iPhone 17 Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 17 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-17.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5212,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-17e.html",
+      "title": "iPhone 17e Back Glass Replacement Guide | FixMob",
+      "description": "iPhone 17e back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-17e.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5004,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-air.html",
+      "title": "iPhone Air Back Glass Replacement Guide | FixMob",
+      "description": "iPhone Air back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 22 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-air.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3180,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-x.html",
+      "title": "iPhone X Back Glass Replacement Guide | FixMob",
+      "description": "iPhone X back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 4 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-x.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1329,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-xr.html",
+      "title": "iPhone XR Back Glass Replacement Guide | FixMob",
+      "description": "iPhone XR back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 47 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-xr.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5410,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-xs-max.html",
+      "title": "iPhone XS Max Back Glass Replacement Guide | FixMob",
+      "description": "iPhone XS Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-xs-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1697,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/backglass/iphone-xs.html",
+      "title": "iPhone XS Back Glass Replacement Guide | FixMob",
+      "description": "iPhone XS back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/backglass/iphone-xs.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 1644,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-11-pro-max.html",
+      "title": "iPhone 11 Pro Max Battery Replacement Guide | FixMob",
+      "description": "iPhone 11 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 43 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-11-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5283,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-11-pro.html",
+      "title": "iPhone 11 Pro Battery Replacement Guide | FixMob",
+      "description": "iPhone 11 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 43 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-11-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5164,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-11.html",
+      "title": "iPhone 11 Battery Replacement Guide | FixMob",
+      "description": "iPhone 11 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 48 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-11.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5338,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-12-mini.html",
+      "title": "iPhone 12 mini Battery Replacement Guide | FixMob",
+      "description": "iPhone 12 mini battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 35 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-12-mini.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4459,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-12-pro-max.html",
+      "title": "iPhone 12 Pro Max Battery Replacement Guide | FixMob",
+      "description": "iPhone 12 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 41 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-12-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5172,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-12-pro.html",
+      "title": "iPhone 12 Pro Battery Replacement Guide | FixMob",
+      "description": "iPhone 12 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 49 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-12-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5749,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-12.html",
+      "title": "iPhone 12 Battery Replacement Guide | FixMob",
+      "description": "iPhone 12 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 49 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-12.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5618,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-13-mini.html",
+      "title": "iPhone 13 mini Battery Replacement Guide | FixMob",
+      "description": "iPhone 13 mini battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 34 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-13-mini.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4277,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-13-pro-max.html",
+      "title": "iPhone 13 Pro Max Battery Replacement Guide | FixMob",
+      "description": "iPhone 13 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 38 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-13-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4858,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-13-pro.html",
+      "title": "iPhone 13 Pro Battery Replacement Guide | FixMob",
+      "description": "iPhone 13 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 38 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-13-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4732,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-13.html",
+      "title": "iPhone 13 Battery Replacement Guide | FixMob",
+      "description": "iPhone 13 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 37 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-13.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4622,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-14-plus.html",
+      "title": "iPhone 14 Plus Battery Replacement Guide | FixMob",
+      "description": "iPhone 14 Plus battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 27 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-14-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3745,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-14-pro-max.html",
+      "title": "iPhone 14 Pro Max Battery Replacement Guide | FixMob",
+      "description": "iPhone 14 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 37 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-14-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4869,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-14-pro.html",
+      "title": "iPhone 14 Pro Battery Replacement Guide | FixMob",
+      "description": "iPhone 14 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 36 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-14-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4657,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-14.html",
+      "title": "iPhone 14 Battery Replacement Guide | FixMob",
+      "description": "iPhone 14 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 27 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-14.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3663,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-15-plus.html",
+      "title": "iPhone 15 Plus Battery Replacement Guide | FixMob",
+      "description": "iPhone 15 Plus battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 61 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-15-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6878,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-15-pro-max.html",
+      "title": "iPhone 15 Pro Max Battery Replacement Guide | FixMob",
+      "description": "iPhone 15 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 36 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-15-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4520,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-15-pro.html",
+      "title": "iPhone 15 Pro Battery Replacement Guide | FixMob",
+      "description": "iPhone 15 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 69 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-15-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 7150,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-15.html",
+      "title": "iPhone 15 Battery Replacement Guide | FixMob",
+      "description": "iPhone 15 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 60 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-15.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6560,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-16-plus.html",
+      "title": "iPhone 16 Plus Battery Replacement Guide | FixMob",
+      "description": "iPhone 16 Plus battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 62 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-16-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6753,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-16-pro-max.html",
+      "title": "iPhone 16 Pro Max Battery Replacement Guide | FixMob",
+      "description": "iPhone 16 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 81 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-16-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 8356,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-16-pro.html",
+      "title": "iPhone 16 Pro Battery Replacement Guide | FixMob",
+      "description": "iPhone 16 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 84 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-16-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 8577,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-16.html",
+      "title": "iPhone 16 Battery Replacement Guide | FixMob",
+      "description": "iPhone 16 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 62 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-16.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6485,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-16e.html",
+      "title": "iPhone 16e Battery Replacement Guide | FixMob",
+      "description": "iPhone 16e battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 56 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-16e.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5817,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-17-pro-max.html",
+      "title": "iPhone 17 Pro Max Battery Replacement Guide | FixMob",
+      "description": "iPhone 17 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 50 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-17-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5757,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-17-pro.html",
+      "title": "iPhone 17 Pro Battery Replacement Guide | FixMob",
+      "description": "iPhone 17 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 50 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-17-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5647,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-17.html",
+      "title": "iPhone 17 Battery Replacement Guide | FixMob",
+      "description": "iPhone 17 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 62 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-17.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6494,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-17e.html",
+      "title": "iPhone 17e Battery Replacement Guide | FixMob",
+      "description": "iPhone 17e battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 56 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-17e.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5826,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-air.html",
+      "title": "iPhone Air Battery Replacement Guide | FixMob",
+      "description": "iPhone Air battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 29 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-air.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3714,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-x.html",
+      "title": "iPhone X Battery Replacement Guide | FixMob",
+      "description": "iPhone X battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 48 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-x.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5491,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-xr.html",
+      "title": "iPhone XR Battery Replacement Guide | FixMob",
+      "description": "iPhone XR battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 42 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-xr.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5033,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-xs-max.html",
+      "title": "iPhone XS Max Battery Replacement Guide | FixMob",
+      "description": "iPhone XS Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 50 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-xs-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5867,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/battery/iphone-xs.html",
+      "title": "iPhone XS Battery Replacement Guide | FixMob",
+      "description": "iPhone XS battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 48 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/battery/iphone-xs.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5585,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-11-pro-max.html",
+      "title": "iPhone 11 Pro Max Screen Replacement Guide | FixMob",
+      "description": "iPhone 11 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-11-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4270,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-11-pro.html",
+      "title": "iPhone 11 Pro Screen Replacement Guide | FixMob",
+      "description": "iPhone 11 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-11-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4179,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-11.html",
+      "title": "iPhone 11 Screen Replacement Guide | FixMob",
+      "description": "iPhone 11 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-11.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3989,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-12-mini.html",
+      "title": "iPhone 12 mini Screen Replacement Guide | FixMob",
+      "description": "iPhone 12 mini screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-12-mini.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4202,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-12-pro-max.html",
+      "title": "iPhone 12 Pro Max Screen Replacement Guide | FixMob",
+      "description": "iPhone 12 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-12-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4271,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-12-pro.html",
+      "title": "iPhone 12 Pro Screen Replacement Guide | FixMob",
+      "description": "iPhone 12 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-12-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4271,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-12.html",
+      "title": "iPhone 12 Screen Replacement Guide | FixMob",
+      "description": "iPhone 12 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-12.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4177,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-13-mini.html",
+      "title": "iPhone 13 mini Screen Replacement Guide | FixMob",
+      "description": "iPhone 13 mini screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-13-mini.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4035,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-13-pro-max.html",
+      "title": "iPhone 13 Pro Max Screen Replacement Guide | FixMob",
+      "description": "iPhone 13 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 34 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-13-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4390,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-13-pro.html",
+      "title": "iPhone 13 Pro Screen Replacement Guide | FixMob",
+      "description": "iPhone 13 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 34 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-13-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4276,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-13.html",
+      "title": "iPhone 13 Screen Replacement Guide | FixMob",
+      "description": "iPhone 13 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 34 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-13.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4151,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-14-plus.html",
+      "title": "iPhone 14 Plus Screen Replacement Guide | FixMob",
+      "description": "iPhone 14 Plus screen repair guide for cracked glass, black screen, green lines, or touch issues, with 28 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-14-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3722,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-14-pro-max.html",
+      "title": "iPhone 14 Pro Max Screen Replacement Guide | FixMob",
+      "description": "iPhone 14 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 28 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-14-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3875,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-14-pro.html",
+      "title": "iPhone 14 Pro Screen Replacement Guide | FixMob",
+      "description": "iPhone 14 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 28 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-14-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3758,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-14.html",
+      "title": "iPhone 14 Screen Replacement Guide | FixMob",
+      "description": "iPhone 14 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 29 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-14.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 3707,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-15-plus.html",
+      "title": "iPhone 15 Plus Screen Replacement Guide | FixMob",
+      "description": "iPhone 15 Plus screen repair guide for cracked glass, black screen, green lines, or touch issues, with 61 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-15-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6461,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-15-pro-max.html",
+      "title": "iPhone 15 Pro Max Screen Replacement Guide | FixMob",
+      "description": "iPhone 15 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-15-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4069,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-15-pro.html",
+      "title": "iPhone 15 Pro Screen Replacement Guide | FixMob",
+      "description": "iPhone 15 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 59 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-15-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6424,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-15.html",
+      "title": "iPhone 15 Screen Replacement Guide | FixMob",
+      "description": "iPhone 15 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 64 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-15.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6495,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-16-plus.html",
+      "title": "iPhone 16 Plus Screen Replacement Guide | FixMob",
+      "description": "iPhone 16 Plus screen repair guide for cracked glass, black screen, green lines, or touch issues, with 51 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-16-plus.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5988,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-16-pro-max.html",
+      "title": "iPhone 16 Pro Max Screen Replacement Guide | FixMob",
+      "description": "iPhone 16 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 50 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-16-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5832,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-16-pro.html",
+      "title": "iPhone 16 Pro Screen Replacement Guide | FixMob",
+      "description": "iPhone 16 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 52 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-16-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5769,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-16.html",
+      "title": "iPhone 16 Screen Replacement Guide | FixMob",
+      "description": "iPhone 16 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 52 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-16.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5821,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-16e.html",
+      "title": "iPhone 16e Screen Replacement Guide | FixMob",
+      "description": "iPhone 16e screen repair guide for cracked glass, black screen, green lines, or touch issues, with 41 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-16e.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4545,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-17-pro-max.html",
+      "title": "iPhone 17 Pro Max Screen Replacement Guide | FixMob",
+      "description": "iPhone 17 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 55 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-17-pro-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6153,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-17-pro.html",
+      "title": "iPhone 17 Pro Screen Replacement Guide | FixMob",
+      "description": "iPhone 17 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 55 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 6043,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-17.html",
+      "title": "iPhone 17 Screen Replacement Guide | FixMob",
+      "description": "iPhone 17 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 52 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-17.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 5831,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-17e.html",
+      "title": "iPhone 17e Screen Replacement Guide | FixMob",
+      "description": "iPhone 17e screen repair guide for cracked glass, black screen, green lines, or touch issues, with 41 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-17e.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4554,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-air.html",
+      "title": "iPhone Air Screen Replacement Guide | FixMob",
+      "description": "iPhone Air screen repair guide for cracked glass, black screen, green lines, or touch issues, with 17 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-air.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 2615,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-x.html",
+      "title": "iPhone X Screen Replacement Guide | FixMob",
+      "description": "iPhone X screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-x.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4199,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-xr.html",
+      "title": "iPhone XR Screen Replacement Guide | FixMob",
+      "description": "iPhone XR screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-xr.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4198,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-xs-max.html",
+      "title": "iPhone XS Max Screen Replacement Guide | FixMob",
+      "description": "iPhone XS Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-xs-max.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4236,
+      "indexable": true
+    },
+    {
+      "url": "/repairs/screen/iphone-xs.html",
+      "title": "iPhone XS Screen Replacement Guide | FixMob",
+      "description": "iPhone XS screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.",
+      "canonical": "https://fixmob.tech/repairs/screen/iphone-xs.html",
+      "h1_count": 1,
+      "schema_count": 4,
+      "word_count": 4124,
+      "indexable": true
+    },
+    {
+      "url": "/screen-repair-guides.html",
+      "title": "iPhone Screen Replacement Guides by Model | FixMob",
+      "description": "Browse iPhone screen replacement guides by model, with repair photos, safety notes, display cable warnings, tools, and screw measurements.",
+      "canonical": "https://fixmob.tech/screen-repair-guides.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 712,
+      "indexable": true
+    },
+    {
+      "url": "/screw-location-photos.html",
+      "title": "iPhone Screw Location Photos by Model | FixMob",
+      "description": "Browse real iPhone screw location photos by model and repair type, with millimeter screw notes, bracket checks, and linked repair guides.",
+      "canonical": "https://fixmob.tech/screw-location-photos.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 5647,
+      "indexable": true
+    },
+    {
+      "url": "/site-map.html",
+      "title": "FixMob Site Map | iPhone Repair Guide Index",
+      "description": "Browse every public FixMob iPhone repair guide, screw photo page, repair category page, and policy page from one crawlable site map.",
+      "canonical": "https://fixmob.tech/site-map.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 3326,
+      "indexable": true
+    },
+    {
+      "url": "/terms.html",
+      "title": "FixMob Terms and iPhone Repair Disclaimer",
+      "description": "Read the FixMob terms, repair disclaimer, trademark notice, parts compatibility limits, battery safety warnings, and iPhone repair information rules.",
+      "canonical": "https://fixmob.tech/terms.html",
+      "h1_count": 1,
+      "schema_count": 1,
+      "word_count": 330,
+      "indexable": true
+    }
+  ],
+  "issues": {
+    "missing_title": [],
+    "missing_description": [],
+    "missing_canonical": [],
+    "bad_h1": [],
+    "no_schema": [],
+    "noindex": [
+      "/404.html"
+    ],
+    "external_images": [],
+    "image_alt_issues": [],
+    "duplicate_titles": [],
+    "duplicate_descriptions": []
+  }
+}

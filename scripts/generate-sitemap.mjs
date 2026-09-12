@@ -57,8 +57,28 @@ await writeFile(path.join(root, "sitemap"), xml, "utf8");
 await writeFile(path.join(root, "robots.txt"), `User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
 Sitemap: ${siteUrl}/sitemap.xml
-Sitemap: ${siteUrl}/sitemap
 `, "utf8");
 
 console.log(`Generated sitemap.xml with ${urls.length} URLs.`);

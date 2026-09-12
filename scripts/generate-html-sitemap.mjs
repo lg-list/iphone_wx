@@ -122,7 +122,7 @@ ${section.links.map((link) => {
         </div>
       </section>`).join("\n");
 
-const description = "Browse every public FixMob iPhone repair guide, screw photo page, and repair category page from one crawlable site map.";
+const description = "Browse every public FixMob iPhone repair guide, screw photo page, repair category page, and policy page from one crawlable site map.";
 const html = `<!doctype html>
 <html lang="en">
 <head>

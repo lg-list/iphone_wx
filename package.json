@@ -1,0 +1,23 @@
+{
+  "name": "iphonewx",
+  "version": "1.0.0",
+  "description": "Static English iPhone repair guide site for GitHub Pages or another static host.",
+  "main": "app.js",
+  "dependencies": {
+    "playwright": "^1.63.0",
+    "playwright-core": "^1.63.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.1"
+  },
+  "scripts": {
+    "seo:weekly": "python scripts/seo_operator.py weekly",
+    "seo:gsc": "python scripts/gsc_fetch.py",
+    "seo:links": "python scripts/internal_links.py",
+    "build:seo": "node scripts/generate-category-pages.mjs && node scripts/generate-html-sitemap.mjs && node scripts/generate-sitemap.mjs && node scripts/generate-llms-files.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

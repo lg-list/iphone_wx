@@ -1,0 +1,819 @@
+# FixMob Full AI Context
+
+This file gives AI assistants and search agents a crawl-light overview of FixMob's public repair library.
+
+## Site Summary
+
+FixMob provides model-specific iPhone repair preparation pages for screen replacement, battery replacement, back glass repair, and screw-location checks. The site is written for US English search intent and uses static HTML pages, canonical URLs, local images, sitemap discovery, and structured data.
+
+## Canonical Public Pages
+
+- Home: https://fixmob.tech/
+- Screen repair guides: https://fixmob.tech/screen-repair-guides.html
+- Battery replacement guides: https://fixmob.tech/battery-replacement-guides.html
+- Back glass repair guides: https://fixmob.tech/back-glass-repair-guides.html
+- Screw location photos: https://fixmob.tech/screw-location-photos.html
+- Site map: https://fixmob.tech/site-map.html
+- About: https://fixmob.tech/about.html
+- Contact: https://fixmob.tech/contact.html
+- Terms: https://fixmob.tech/terms.html
+- Privacy: https://fixmob.tech/privacy.html
+
+## Public Repair Pages
+
+### iPhone 11 Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-11.html
+- Model: iPhone 11
+- Repair type: Back Glass Repair
+- Meta description: iPhone 11 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Back Glass Replacement Guide | FixMob 2019 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Back Glass Replacement Guide | FixMob This iPhone 11 back glass guide is written as a standalone bench page. It explains the 2019 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 back glass opening reference. Model iPhone 11 Year / size 2019 / 6.1-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone 11 back glass job Chassis
+
+### iPhone 11 Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-11.html
+- Model: iPhone 11
+- Repair type: Battery Replacement
+- Meta description: iPhone 11 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 48 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Battery Replacement Guide | FixMob 2019 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Battery Replacement Guide | FixMob This iPhone 11 battery guide is written as a standalone bench page. It explains the 2019 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 battery opening reference. Model iPhone 11 Year / size 2019 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 11 battery job Chassis profile The 2019 iPhone 11 is
+
+### iPhone 11 Pro Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-11-pro.html
+- Model: iPhone 11 Pro
+- Repair type: Back Glass Repair
+- Meta description: iPhone 11 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Pro Back Glass Replacement Guide | FixMob 2019 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Pro Back Glass Replacement Guide | FixMob This iPhone 11 Pro back glass guide is written as a standalone bench page. It explains the 2019 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 Pro back glass opening reference. Model iPhone 11 Pro Year / size 2019 / 5.8-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone
+
+### iPhone 11 Pro Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-11-pro.html
+- Model: iPhone 11 Pro
+- Repair type: Battery Replacement
+- Meta description: iPhone 11 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 43 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Pro Battery Replacement Guide | FixMob 2019 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Pro Battery Replacement Guide | FixMob This iPhone 11 Pro battery guide is written as a standalone bench page. It explains the 2019 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 Pro battery opening reference. Model iPhone 11 Pro Year / size 2019 / 5.8-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 11 Pro battery job Chassis
+
+### iPhone 11 Pro Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-11-pro-max.html
+- Model: iPhone 11 Pro Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone 11 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Pro Max Back Glass Replacement Guide | FixMob 2019 6.5-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Pro Max Back Glass Replacement Guide | FixMob This iPhone 11 Pro Max back glass guide is written as a standalone bench page. It explains the 2019 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 Pro Max back glass opening reference. Model iPhone 11 Pro Max Year / size 2019 / 6.5-inch Port Lightning Repair focus Back Glass Planning Model Notes What
+
+### iPhone 11 Pro Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-11-pro-max.html
+- Model: iPhone 11 Pro Max
+- Repair type: Battery Replacement
+- Meta description: iPhone 11 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 43 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Pro Max Battery Replacement Guide | FixMob 2019 6.5-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Pro Max Battery Replacement Guide | FixMob This iPhone 11 Pro Max battery guide is written as a standalone bench page. It explains the 2019 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 Pro Max battery opening reference. Model iPhone 11 Pro Max Year / size 2019 / 6.5-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone
+
+### iPhone 11 Pro Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-11-pro-max.html
+- Model: iPhone 11 Pro Max
+- Repair type: Screen Replacement
+- Meta description: iPhone 11 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Pro Max Screen Replacement Guide | FixMob 2019 6.5-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Pro Max Screen Replacement Guide | FixMob This iPhone 11 Pro Max screen guide is written as a standalone bench page. It explains the 2019 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 Pro Max screen opening reference. Model iPhone 11 Pro Max Year / size 2019 / 6.5-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone
+
+### iPhone 11 Pro Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-11-pro.html
+- Model: iPhone 11 Pro
+- Repair type: Screen Replacement
+- Meta description: iPhone 11 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Pro Screen Replacement Guide | FixMob 2019 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Pro Screen Replacement Guide | FixMob This iPhone 11 Pro screen guide is written as a standalone bench page. It explains the 2019 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 Pro screen opening reference. Model iPhone 11 Pro Year / size 2019 / 5.8-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 11 Pro screen job Chassis
+
+### iPhone 11 Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-11.html
+- Model: iPhone 11
+- Repair type: Screen Replacement
+- Meta description: iPhone 11 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 11 Screen Replacement Guide | FixMob 2019 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 11 Screen Replacement Guide | FixMob This iPhone 11 screen guide is written as a standalone bench page. It explains the 2019 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 11 screen opening reference. Model iPhone 11 Year / size 2019 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 11 screen job Chassis profile The 2019 iPhone 11 is
+
+### iPhone 12 Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-12.html
+- Model: iPhone 12
+- Repair type: Back Glass Repair
+- Meta description: iPhone 12 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 7 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Back Glass Replacement Guide | FixMob 2020 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Back Glass Replacement Guide | FixMob This iPhone 12 back glass guide is written as a standalone bench page. It explains the 2020 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 back glass opening reference. Model iPhone 12 Year / size 2020 / 6.1-inch Port Lightning Repair focus Back Glass Replacement Model Notes What is different about the iPhone 12 back glass job Chassis
+
+### iPhone 12 Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-12.html
+- Model: iPhone 12
+- Repair type: Battery Replacement
+- Meta description: iPhone 12 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 49 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Battery Replacement Guide | FixMob 2020 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Battery Replacement Guide | FixMob This iPhone 12 battery guide is written as a standalone bench page. It explains the 2020 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 battery opening reference. Model iPhone 12 Year / size 2020 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 12 battery job Chassis profile The 2020 iPhone 12 is
+
+### iPhone 12 mini Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-12-mini.html
+- Model: iPhone 12 mini
+- Repair type: Back Glass Repair
+- Meta description: iPhone 12 mini back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 mini Back Glass Replacement Guide | FixMob 2020 5.4-inch Lightning repair guide Model-Specific Tutorial iPhone 12 mini Back Glass Replacement Guide | FixMob This iPhone 12 mini back glass guide is written as a standalone bench page. It explains the 2020 5.4-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 mini back glass opening reference. Model iPhone 12 mini Year / size 2020 / 5.4-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone
+
+### iPhone 12 mini Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-12-mini.html
+- Model: iPhone 12 mini
+- Repair type: Battery Replacement
+- Meta description: iPhone 12 mini battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 35 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 mini Battery Replacement Guide | FixMob 2020 5.4-inch Lightning repair guide Model-Specific Tutorial iPhone 12 mini Battery Replacement Guide | FixMob This iPhone 12 mini battery guide is written as a standalone bench page. It explains the 2020 5.4-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 mini battery opening reference. Model iPhone 12 mini Year / size 2020 / 5.4-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 12 mini battery job Chassis
+
+### iPhone 12 mini Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-12-mini.html
+- Model: iPhone 12 mini
+- Repair type: Screen Replacement
+- Meta description: iPhone 12 mini screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 mini Screen Replacement Guide | FixMob 2020 5.4-inch Lightning repair guide Model-Specific Tutorial iPhone 12 mini Screen Replacement Guide | FixMob This iPhone 12 mini screen guide is written as a standalone bench page. It explains the 2020 5.4-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 mini screen opening reference. Model iPhone 12 mini Year / size 2020 / 5.4-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 12 mini screen job Chassis
+
+### iPhone 12 Pro Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-12-pro.html
+- Model: iPhone 12 Pro
+- Repair type: Back Glass Repair
+- Meta description: iPhone 12 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Pro Back Glass Replacement Guide | FixMob 2020 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Pro Back Glass Replacement Guide | FixMob This iPhone 12 Pro back glass guide is written as a standalone bench page. It explains the 2020 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 Pro back glass opening reference. Model iPhone 12 Pro Year / size 2020 / 6.1-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone
+
+### iPhone 12 Pro Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-12-pro.html
+- Model: iPhone 12 Pro
+- Repair type: Battery Replacement
+- Meta description: iPhone 12 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 49 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Pro Battery Replacement Guide | FixMob 2020 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Pro Battery Replacement Guide | FixMob This iPhone 12 Pro battery guide is written as a standalone bench page. It explains the 2020 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 Pro battery opening reference. Model iPhone 12 Pro Year / size 2020 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 12 Pro battery job Chassis
+
+### iPhone 12 Pro Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-12-pro-max.html
+- Model: iPhone 12 Pro Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone 12 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Pro Max Back Glass Replacement Guide | FixMob 2020 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Pro Max Back Glass Replacement Guide | FixMob This iPhone 12 Pro Max back glass guide is written as a standalone bench page. It explains the 2020 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 Pro Max back glass opening reference. Model iPhone 12 Pro Max Year / size 2020 / 6.7-inch Port Lightning Repair focus Back Glass Planning Model Notes What
+
+### iPhone 12 Pro Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-12-pro-max.html
+- Model: iPhone 12 Pro Max
+- Repair type: Battery Replacement
+- Meta description: iPhone 12 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 41 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Pro Max Battery Replacement Guide | FixMob 2020 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Pro Max Battery Replacement Guide | FixMob This iPhone 12 Pro Max battery guide is written as a standalone bench page. It explains the 2020 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 Pro Max battery opening reference. Model iPhone 12 Pro Max Year / size 2020 / 6.7-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone
+
+### iPhone 12 Pro Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-12-pro-max.html
+- Model: iPhone 12 Pro Max
+- Repair type: Screen Replacement
+- Meta description: iPhone 12 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Pro Max Screen Replacement Guide | FixMob 2020 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Pro Max Screen Replacement Guide | FixMob This iPhone 12 Pro Max screen guide is written as a standalone bench page. It explains the 2020 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 Pro Max screen opening reference. Model iPhone 12 Pro Max Year / size 2020 / 6.7-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone
+
+### iPhone 12 Pro Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-12-pro.html
+- Model: iPhone 12 Pro
+- Repair type: Screen Replacement
+- Meta description: iPhone 12 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Pro Screen Replacement Guide | FixMob 2020 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Pro Screen Replacement Guide | FixMob This iPhone 12 Pro screen guide is written as a standalone bench page. It explains the 2020 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 Pro screen opening reference. Model iPhone 12 Pro Year / size 2020 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 12 Pro screen job Chassis
+
+### iPhone 12 Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-12.html
+- Model: iPhone 12
+- Repair type: Screen Replacement
+- Meta description: iPhone 12 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 12 Screen Replacement Guide | FixMob 2020 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 12 Screen Replacement Guide | FixMob This iPhone 12 screen guide is written as a standalone bench page. It explains the 2020 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 12 screen opening reference. Model iPhone 12 Year / size 2020 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 12 screen job Chassis profile The 2020 iPhone 12 is
+
+### iPhone 13 Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-13.html
+- Model: iPhone 13
+- Repair type: Back Glass Repair
+- Meta description: iPhone 13 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Back Glass Replacement Guide | FixMob 2021 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Back Glass Replacement Guide | FixMob This iPhone 13 back glass guide is written as a standalone bench page. It explains the 2021 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 back glass opening reference. Model iPhone 13 Year / size 2021 / 6.1-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone 13 back glass job Chassis
+
+### iPhone 13 Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-13.html
+- Model: iPhone 13
+- Repair type: Battery Replacement
+- Meta description: iPhone 13 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 37 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Battery Replacement Guide | FixMob 2021 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Battery Replacement Guide | FixMob This iPhone 13 battery guide is written as a standalone bench page. It explains the 2021 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 battery opening reference. Model iPhone 13 Year / size 2021 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 13 battery job Chassis profile The 2021 iPhone 13 is
+
+### iPhone 13 mini Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-13-mini.html
+- Model: iPhone 13 mini
+- Repair type: Back Glass Repair
+- Meta description: iPhone 13 mini back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 mini Back Glass Replacement Guide | FixMob 2021 5.4-inch Lightning repair guide Model-Specific Tutorial iPhone 13 mini Back Glass Replacement Guide | FixMob This iPhone 13 mini back glass guide is written as a standalone bench page. It explains the 2021 5.4-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 mini back glass opening reference. Model iPhone 13 mini Year / size 2021 / 5.4-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone
+
+### iPhone 13 mini Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-13-mini.html
+- Model: iPhone 13 mini
+- Repair type: Battery Replacement
+- Meta description: iPhone 13 mini battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 34 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 mini Battery Replacement Guide | FixMob 2021 5.4-inch Lightning repair guide Model-Specific Tutorial iPhone 13 mini Battery Replacement Guide | FixMob This iPhone 13 mini battery guide is written as a standalone bench page. It explains the 2021 5.4-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 mini battery opening reference. Model iPhone 13 mini Year / size 2021 / 5.4-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 13 mini battery job Chassis
+
+### iPhone 13 mini Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-13-mini.html
+- Model: iPhone 13 mini
+- Repair type: Screen Replacement
+- Meta description: iPhone 13 mini screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 mini Screen Replacement Guide | FixMob 2021 5.4-inch Lightning repair guide Model-Specific Tutorial iPhone 13 mini Screen Replacement Guide | FixMob This iPhone 13 mini screen guide is written as a standalone bench page. It explains the 2021 5.4-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 mini screen opening reference. Model iPhone 13 mini Year / size 2021 / 5.4-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 13 mini screen job Chassis
+
+### iPhone 13 Pro Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-13-pro.html
+- Model: iPhone 13 Pro
+- Repair type: Back Glass Repair
+- Meta description: iPhone 13 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Pro Back Glass Replacement Guide | FixMob 2021 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Pro Back Glass Replacement Guide | FixMob This iPhone 13 Pro back glass guide is written as a standalone bench page. It explains the 2021 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 Pro back glass opening reference. Model iPhone 13 Pro Year / size 2021 / 6.1-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone
+
+### iPhone 13 Pro Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-13-pro.html
+- Model: iPhone 13 Pro
+- Repair type: Battery Replacement
+- Meta description: iPhone 13 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 38 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Pro Battery Replacement Guide | FixMob 2021 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Pro Battery Replacement Guide | FixMob This iPhone 13 Pro battery guide is written as a standalone bench page. It explains the 2021 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 Pro battery opening reference. Model iPhone 13 Pro Year / size 2021 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 13 Pro battery job Chassis
+
+### iPhone 13 Pro Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-13-pro-max.html
+- Model: iPhone 13 Pro Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone 13 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Pro Max Back Glass Replacement Guide | FixMob 2021 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Pro Max Back Glass Replacement Guide | FixMob This iPhone 13 Pro Max back glass guide is written as a standalone bench page. It explains the 2021 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 Pro Max back glass opening reference. Model iPhone 13 Pro Max Year / size 2021 / 6.7-inch Port Lightning Repair focus Back Glass Planning Model Notes What
+
+### iPhone 13 Pro Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-13-pro-max.html
+- Model: iPhone 13 Pro Max
+- Repair type: Battery Replacement
+- Meta description: iPhone 13 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 38 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Pro Max Battery Replacement Guide | FixMob 2021 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Pro Max Battery Replacement Guide | FixMob This iPhone 13 Pro Max battery guide is written as a standalone bench page. It explains the 2021 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 Pro Max battery opening reference. Model iPhone 13 Pro Max Year / size 2021 / 6.7-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone
+
+### iPhone 13 Pro Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-13-pro-max.html
+- Model: iPhone 13 Pro Max
+- Repair type: Screen Replacement
+- Meta description: iPhone 13 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 34 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Pro Max Screen Replacement Guide | FixMob 2021 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Pro Max Screen Replacement Guide | FixMob This iPhone 13 Pro Max screen guide is written as a standalone bench page. It explains the 2021 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 Pro Max screen opening reference. Model iPhone 13 Pro Max Year / size 2021 / 6.7-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone
+
+### iPhone 13 Pro Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-13-pro.html
+- Model: iPhone 13 Pro
+- Repair type: Screen Replacement
+- Meta description: iPhone 13 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 34 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Pro Screen Replacement Guide | FixMob 2021 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Pro Screen Replacement Guide | FixMob This iPhone 13 Pro screen guide is written as a standalone bench page. It explains the 2021 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 Pro screen opening reference. Model iPhone 13 Pro Year / size 2021 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 13 Pro screen job Chassis
+
+### iPhone 13 Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-13.html
+- Model: iPhone 13
+- Repair type: Screen Replacement
+- Meta description: iPhone 13 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 34 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 13 Screen Replacement Guide | FixMob 2021 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 13 Screen Replacement Guide | FixMob This iPhone 13 screen guide is written as a standalone bench page. It explains the 2021 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 13 screen opening reference. Model iPhone 13 Year / size 2021 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 13 screen job Chassis profile The 2021 iPhone 13 is
+
+### iPhone 14 Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-14.html
+- Model: iPhone 14
+- Repair type: Back Glass Repair
+- Meta description: iPhone 14 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 21 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Back Glass Replacement Guide | FixMob 2022 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Back Glass Replacement Guide | FixMob This iPhone 14 back glass guide is written as a standalone bench page. It explains the 2022 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 back glass opening reference. Model iPhone 14 Year / size 2022 / 6.1-inch Port Lightning Repair focus Back Glass Replacement Model Notes What is different about the iPhone 14 back glass job Chassis
+
+### iPhone 14 Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-14.html
+- Model: iPhone 14
+- Repair type: Battery Replacement
+- Meta description: iPhone 14 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 27 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Battery Replacement Guide | FixMob 2022 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Battery Replacement Guide | FixMob This iPhone 14 battery guide is written as a standalone bench page. It explains the 2022 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 battery opening reference. Model iPhone 14 Year / size 2022 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 14 battery job Chassis profile The 2022 iPhone 14 is
+
+### iPhone 14 Plus Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-14-plus.html
+- Model: iPhone 14 plus
+- Repair type: Back Glass Repair
+- Meta description: iPhone 14 Plus back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 21 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Plus Back Glass Replacement Guide | FixMob 2022 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Plus Back Glass Replacement Guide | FixMob This iPhone 14 Plus back glass guide is written as a standalone bench page. It explains the 2022 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Plus back glass opening reference. Model iPhone 14 Plus Year / size 2022 / 6.7-inch Port Lightning Repair focus Back Glass Replacement Model Notes What is different about the iPhone
+
+### iPhone 14 Plus Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-14-plus.html
+- Model: iPhone 14 plus
+- Repair type: Battery Replacement
+- Meta description: iPhone 14 Plus battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 27 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Plus Battery Replacement Guide | FixMob 2022 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Plus Battery Replacement Guide | FixMob This iPhone 14 Plus battery guide is written as a standalone bench page. It explains the 2022 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Plus battery opening reference. Model iPhone 14 Plus Year / size 2022 / 6.7-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 14 Plus battery job Chassis
+
+### iPhone 14 Plus Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-14-plus.html
+- Model: iPhone 14 plus
+- Repair type: Screen Replacement
+- Meta description: iPhone 14 Plus screen repair guide for cracked glass, black screen, green lines, or touch issues, with 28 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Plus Screen Replacement Guide | FixMob 2022 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Plus Screen Replacement Guide | FixMob This iPhone 14 Plus screen guide is written as a standalone bench page. It explains the 2022 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Plus screen opening reference. Model iPhone 14 Plus Year / size 2022 / 6.7-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 14 Plus screen job Chassis
+
+### iPhone 14 Pro Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-14-pro.html
+- Model: iPhone 14 Pro
+- Repair type: Back Glass Repair
+- Meta description: iPhone 14 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Pro Back Glass Replacement Guide | FixMob 2022 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Pro Back Glass Replacement Guide | FixMob This iPhone 14 Pro back glass guide is written as a standalone bench page. It explains the 2022 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Pro back glass opening reference. Model iPhone 14 Pro Year / size 2022 / 6.1-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone
+
+### iPhone 14 Pro Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-14-pro.html
+- Model: iPhone 14 Pro
+- Repair type: Battery Replacement
+- Meta description: iPhone 14 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 36 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Pro Battery Replacement Guide | FixMob 2022 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Pro Battery Replacement Guide | FixMob This iPhone 14 Pro battery guide is written as a standalone bench page. It explains the 2022 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Pro battery opening reference. Model iPhone 14 Pro Year / size 2022 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone 14 Pro battery job Chassis
+
+### iPhone 14 Pro Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-14-pro-max.html
+- Model: iPhone 14 Pro Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone 14 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Pro Max Back Glass Replacement Guide | FixMob 2022 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Pro Max Back Glass Replacement Guide | FixMob This iPhone 14 Pro Max back glass guide is written as a standalone bench page. It explains the 2022 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Pro Max back glass opening reference. Model iPhone 14 Pro Max Year / size 2022 / 6.7-inch Port Lightning Repair focus Back Glass Planning Model Notes What
+
+### iPhone 14 Pro Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-14-pro-max.html
+- Model: iPhone 14 Pro Max
+- Repair type: Battery Replacement
+- Meta description: iPhone 14 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 37 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Pro Max Battery Replacement Guide | FixMob 2022 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Pro Max Battery Replacement Guide | FixMob This iPhone 14 Pro Max battery guide is written as a standalone bench page. It explains the 2022 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Pro Max battery opening reference. Model iPhone 14 Pro Max Year / size 2022 / 6.7-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone
+
+### iPhone 14 Pro Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-14-pro-max.html
+- Model: iPhone 14 Pro Max
+- Repair type: Screen Replacement
+- Meta description: iPhone 14 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 28 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Pro Max Screen Replacement Guide | FixMob 2022 6.7-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Pro Max Screen Replacement Guide | FixMob This iPhone 14 Pro Max screen guide is written as a standalone bench page. It explains the 2022 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Pro Max screen opening reference. Model iPhone 14 Pro Max Year / size 2022 / 6.7-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone
+
+### iPhone 14 Pro Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-14-pro.html
+- Model: iPhone 14 Pro
+- Repair type: Screen Replacement
+- Meta description: iPhone 14 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 28 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Pro Screen Replacement Guide | FixMob 2022 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Pro Screen Replacement Guide | FixMob This iPhone 14 Pro screen guide is written as a standalone bench page. It explains the 2022 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 Pro screen opening reference. Model iPhone 14 Pro Year / size 2022 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 14 Pro screen job Chassis
+
+### iPhone 14 Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-14.html
+- Model: iPhone 14
+- Repair type: Screen Replacement
+- Meta description: iPhone 14 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 29 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 14 Screen Replacement Guide | FixMob 2022 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone 14 Screen Replacement Guide | FixMob This iPhone 14 screen guide is written as a standalone bench page. It explains the 2022 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 14 screen opening reference. Model iPhone 14 Year / size 2022 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone 14 screen job Chassis profile The 2022 iPhone 14 is
+
+### iPhone 15 Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-15.html
+- Model: iPhone 15
+- Repair type: Back Glass Repair
+- Meta description: iPhone 15 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 48 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Back Glass Replacement Guide | FixMob 2023 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Back Glass Replacement Guide | FixMob This iPhone 15 back glass guide is written as a standalone bench page. It explains the 2023 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 back glass opening reference. Model iPhone 15 Year / size 2023 / 6.1-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone 15 back glass job Chassis
+
+### iPhone 15 Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-15.html
+- Model: iPhone 15
+- Repair type: Battery Replacement
+- Meta description: iPhone 15 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 60 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Battery Replacement Guide | FixMob 2023 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Battery Replacement Guide | FixMob This iPhone 15 battery guide is written as a standalone bench page. It explains the 2023 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 battery opening reference. Model iPhone 15 Year / size 2023 / 6.1-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 15 battery job Chassis profile The 2023 iPhone 15 is
+
+### iPhone 15 Plus Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-15-plus.html
+- Model: iPhone 15 plus
+- Repair type: Back Glass Repair
+- Meta description: iPhone 15 Plus back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 48 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Plus Back Glass Replacement Guide | FixMob 2023 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Plus Back Glass Replacement Guide | FixMob This iPhone 15 Plus back glass guide is written as a standalone bench page. It explains the 2023 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Plus back glass opening reference. Model iPhone 15 Plus Year / size 2023 / 6.7-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone
+
+### iPhone 15 Plus Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-15-plus.html
+- Model: iPhone 15 plus
+- Repair type: Battery Replacement
+- Meta description: iPhone 15 Plus battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 61 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Plus Battery Replacement Guide | FixMob 2023 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Plus Battery Replacement Guide | FixMob This iPhone 15 Plus battery guide is written as a standalone bench page. It explains the 2023 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Plus battery opening reference. Model iPhone 15 Plus Year / size 2023 / 6.7-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 15 Plus battery job Chassis
+
+### iPhone 15 Plus Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-15-plus.html
+- Model: iPhone 15 plus
+- Repair type: Screen Replacement
+- Meta description: iPhone 15 Plus screen repair guide for cracked glass, black screen, green lines, or touch issues, with 61 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Plus Screen Replacement Guide | FixMob 2023 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Plus Screen Replacement Guide | FixMob This iPhone 15 Plus screen guide is written as a standalone bench page. It explains the 2023 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Plus screen opening reference. Model iPhone 15 Plus Year / size 2023 / 6.7-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 15 Plus screen job Chassis
+
+### iPhone 15 Pro Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-15-pro.html
+- Model: iPhone 15 Pro
+- Repair type: Back Glass Repair
+- Meta description: iPhone 15 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 43 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Pro Back Glass Replacement Guide | FixMob 2023 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Pro Back Glass Replacement Guide | FixMob This iPhone 15 Pro back glass guide is written as a standalone bench page. It explains the 2023 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Pro back glass opening reference. Model iPhone 15 Pro Year / size 2023 / 6.1-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone
+
+### iPhone 15 Pro Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-15-pro.html
+- Model: iPhone 15 Pro
+- Repair type: Battery Replacement
+- Meta description: iPhone 15 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 69 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Pro Battery Replacement Guide | FixMob 2023 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Pro Battery Replacement Guide | FixMob This iPhone 15 Pro battery guide is written as a standalone bench page. It explains the 2023 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Pro battery opening reference. Model iPhone 15 Pro Year / size 2023 / 6.1-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 15 Pro battery job Chassis
+
+### iPhone 15 Pro Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-15-pro-max.html
+- Model: iPhone 15 Pro Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone 15 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 43 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Pro Max Back Glass Replacement Guide | FixMob 2023 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Pro Max Back Glass Replacement Guide | FixMob This iPhone 15 Pro Max back glass guide is written as a standalone bench page. It explains the 2023 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Pro Max back glass opening reference. Model iPhone 15 Pro Max Year / size 2023 / 6.7-inch Port USB-C Repair focus Back Glass Replacement Model Notes What
+
+### iPhone 15 Pro Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-15-pro-max.html
+- Model: iPhone 15 Pro Max
+- Repair type: Battery Replacement
+- Meta description: iPhone 15 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 36 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Pro Max Battery Replacement Guide | FixMob 2023 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Pro Max Battery Replacement Guide | FixMob This iPhone 15 Pro Max battery guide is written as a standalone bench page. It explains the 2023 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Pro Max battery opening reference. Model iPhone 15 Pro Max Year / size 2023 / 6.7-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone
+
+### iPhone 15 Pro Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-15-pro-max.html
+- Model: iPhone 15 Pro Max
+- Repair type: Screen Replacement
+- Meta description: iPhone 15 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Pro Max Screen Replacement Guide | FixMob 2023 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Pro Max Screen Replacement Guide | FixMob This iPhone 15 Pro Max screen guide is written as a standalone bench page. It explains the 2023 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Pro Max screen opening reference. Model iPhone 15 Pro Max Year / size 2023 / 6.7-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone
+
+### iPhone 15 Pro Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-15-pro.html
+- Model: iPhone 15 Pro
+- Repair type: Screen Replacement
+- Meta description: iPhone 15 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 59 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Pro Screen Replacement Guide | FixMob 2023 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Pro Screen Replacement Guide | FixMob This iPhone 15 Pro screen guide is written as a standalone bench page. It explains the 2023 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 Pro screen opening reference. Model iPhone 15 Pro Year / size 2023 / 6.1-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 15 Pro screen job Chassis
+
+### iPhone 15 Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-15.html
+- Model: iPhone 15
+- Repair type: Screen Replacement
+- Meta description: iPhone 15 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 64 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 15 Screen Replacement Guide | FixMob 2023 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 15 Screen Replacement Guide | FixMob This iPhone 15 screen guide is written as a standalone bench page. It explains the 2023 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 15 screen opening reference. Model iPhone 15 Year / size 2023 / 6.1-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 15 screen job Chassis profile The 2023 iPhone 15 is
+
+### iPhone 16 Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-16.html
+- Model: iPhone 16
+- Repair type: Back Glass Repair
+- Meta description: iPhone 16 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Back Glass Replacement Guide | FixMob 2024 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Back Glass Replacement Guide | FixMob This iPhone 16 back glass guide is written as a standalone bench page. It explains the 2024 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 back glass opening reference. Model iPhone 16 Year / size 2024 / 6.1-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone 16 back glass job Chassis
+
+### iPhone 16 Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-16.html
+- Model: iPhone 16
+- Repair type: Battery Replacement
+- Meta description: iPhone 16 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 62 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Battery Replacement Guide | FixMob 2024 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Battery Replacement Guide | FixMob This iPhone 16 battery guide is written as a standalone bench page. It explains the 2024 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 battery opening reference. Model iPhone 16 Year / size 2024 / 6.1-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 16 battery job Chassis profile The 2024 iPhone 16 is
+
+### iPhone 16 Plus Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-16-plus.html
+- Model: iPhone 16 plus
+- Repair type: Back Glass Repair
+- Meta description: iPhone 16 Plus back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Plus Back Glass Replacement Guide | FixMob 2024 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Plus Back Glass Replacement Guide | FixMob This iPhone 16 Plus back glass guide is written as a standalone bench page. It explains the 2024 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Plus back glass opening reference. Model iPhone 16 Plus Year / size 2024 / 6.7-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone
+
+### iPhone 16 Plus Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-16-plus.html
+- Model: iPhone 16 plus
+- Repair type: Battery Replacement
+- Meta description: iPhone 16 Plus battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 62 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Plus Battery Replacement Guide | FixMob 2024 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Plus Battery Replacement Guide | FixMob This iPhone 16 Plus battery guide is written as a standalone bench page. It explains the 2024 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Plus battery opening reference. Model iPhone 16 Plus Year / size 2024 / 6.7-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 16 Plus battery job Chassis
+
+### iPhone 16 Plus Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-16-plus.html
+- Model: iPhone 16 plus
+- Repair type: Screen Replacement
+- Meta description: iPhone 16 Plus screen repair guide for cracked glass, black screen, green lines, or touch issues, with 51 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Plus Screen Replacement Guide | FixMob 2024 6.7-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Plus Screen Replacement Guide | FixMob This iPhone 16 Plus screen guide is written as a standalone bench page. It explains the 2024 6.7-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Plus screen opening reference. Model iPhone 16 Plus Year / size 2024 / 6.7-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 16 Plus screen job Chassis
+
+### iPhone 16 Pro Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-16-pro.html
+- Model: iPhone 16 Pro
+- Repair type: Back Glass Repair
+- Meta description: iPhone 16 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 46 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Pro Back Glass Replacement Guide | FixMob 2024 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Pro Back Glass Replacement Guide | FixMob This iPhone 16 Pro back glass guide is written as a standalone bench page. It explains the 2024 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Pro back glass opening reference. Model iPhone 16 Pro Year / size 2024 / 6.3-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone
+
+### iPhone 16 Pro Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-16-pro.html
+- Model: iPhone 16 Pro
+- Repair type: Battery Replacement
+- Meta description: iPhone 16 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 84 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Pro Battery Replacement Guide | FixMob 2024 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Pro Battery Replacement Guide | FixMob This iPhone 16 Pro battery guide is written as a standalone bench page. It explains the 2024 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Pro battery opening reference. Model iPhone 16 Pro Year / size 2024 / 6.3-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 16 Pro battery job Chassis
+
+### iPhone 16 Pro Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-16-pro-max.html
+- Model: iPhone 16 Pro Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone 16 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 46 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Pro Max Back Glass Replacement Guide | FixMob 2024 6.9-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Pro Max Back Glass Replacement Guide | FixMob This iPhone 16 Pro Max back glass guide is written as a standalone bench page. It explains the 2024 6.9-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Pro Max back glass opening reference. Model iPhone 16 Pro Max Year / size 2024 / 6.9-inch Port USB-C Repair focus Back Glass Replacement Model Notes What
+
+### iPhone 16 Pro Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-16-pro-max.html
+- Model: iPhone 16 Pro Max
+- Repair type: Battery Replacement
+- Meta description: iPhone 16 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 81 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Pro Max Battery Replacement Guide | FixMob 2024 6.9-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Pro Max Battery Replacement Guide | FixMob This iPhone 16 Pro Max battery guide is written as a standalone bench page. It explains the 2024 6.9-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Pro Max battery opening reference. Model iPhone 16 Pro Max Year / size 2024 / 6.9-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone
+
+### iPhone 16 Pro Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-16-pro-max.html
+- Model: iPhone 16 Pro Max
+- Repair type: Screen Replacement
+- Meta description: iPhone 16 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 50 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Pro Max Screen Replacement Guide | FixMob 2024 6.9-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Pro Max Screen Replacement Guide | FixMob This iPhone 16 Pro Max screen guide is written as a standalone bench page. It explains the 2024 6.9-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Pro Max screen opening reference. Model iPhone 16 Pro Max Year / size 2024 / 6.9-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone
+
+### iPhone 16 Pro Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-16-pro.html
+- Model: iPhone 16 Pro
+- Repair type: Screen Replacement
+- Meta description: iPhone 16 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 52 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Pro Screen Replacement Guide | FixMob 2024 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Pro Screen Replacement Guide | FixMob This iPhone 16 Pro screen guide is written as a standalone bench page. It explains the 2024 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 Pro screen opening reference. Model iPhone 16 Pro Year / size 2024 / 6.3-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 16 Pro screen job Chassis
+
+### iPhone 16 Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-16.html
+- Model: iPhone 16
+- Repair type: Screen Replacement
+- Meta description: iPhone 16 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 52 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16 Screen Replacement Guide | FixMob 2024 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 16 Screen Replacement Guide | FixMob This iPhone 16 screen guide is written as a standalone bench page. It explains the 2024 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16 screen opening reference. Model iPhone 16 Year / size 2024 / 6.1-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 16 screen job Chassis profile The 2024 iPhone 16 is
+
+### iPhone 16e Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-16e.html
+- Model: iPhone 16e
+- Repair type: Back Glass Repair
+- Meta description: iPhone 16e back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16e Back Glass Replacement Guide | FixMob 2025 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 16e Back Glass Replacement Guide | FixMob This iPhone 16e back glass guide is written as a standalone bench page. It explains the 2025 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16e back glass opening reference. Model iPhone 16e Year / size 2025 / 6.1-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone 16e back glass job Chassis
+
+### iPhone 16e Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-16e.html
+- Model: iPhone 16e
+- Repair type: Battery Replacement
+- Meta description: iPhone 16e battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 56 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16e Battery Replacement Guide | FixMob 2025 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 16e Battery Replacement Guide | FixMob This iPhone 16e battery guide is written as a standalone bench page. It explains the 2025 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16e battery opening reference. Model iPhone 16e Year / size 2025 / 6.1-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 16e battery job Chassis profile The 2025 iPhone 16e is
+
+### iPhone 16e Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-16e.html
+- Model: iPhone 16e
+- Repair type: Screen Replacement
+- Meta description: iPhone 16e screen repair guide for cracked glass, black screen, green lines, or touch issues, with 41 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 16e Screen Replacement Guide | FixMob 2025 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 16e Screen Replacement Guide | FixMob This iPhone 16e screen guide is written as a standalone bench page. It explains the 2025 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 16e screen opening reference. Model iPhone 16e Year / size 2025 / 6.1-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 16e screen job Chassis profile The 2025 iPhone 16e is
+
+### iPhone 17 Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-17.html
+- Model: iPhone 17
+- Repair type: Back Glass Repair
+- Meta description: iPhone 17 back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Back Glass Replacement Guide | FixMob 2025 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Back Glass Replacement Guide | FixMob This iPhone 17 back glass guide is written as a standalone bench page. It explains the 2025 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 back glass opening reference. Model iPhone 17 Year / size 2025 / 6.3-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone 17 back glass job Chassis
+
+### iPhone 17 Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-17.html
+- Model: iPhone 17
+- Repair type: Battery Replacement
+- Meta description: iPhone 17 battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 62 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Battery Replacement Guide | FixMob 2025 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Battery Replacement Guide | FixMob This iPhone 17 battery guide is written as a standalone bench page. It explains the 2025 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 battery opening reference. Model iPhone 17 Year / size 2025 / 6.3-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 17 battery job Chassis profile The 2025 iPhone 17 is
+
+### iPhone 17 Pro Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-17-pro.html
+- Model: iPhone 17 Pro
+- Repair type: Back Glass Repair
+- Meta description: iPhone 17 Pro back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 26 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Pro Back Glass Replacement Guide | FixMob 2025 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Pro Back Glass Replacement Guide | FixMob This iPhone 17 Pro back glass guide is written as a standalone bench page. It explains the 2025 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 Pro back glass opening reference. Model iPhone 17 Pro Year / size 2025 / 6.3-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone
+
+### iPhone 17 Pro Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-17-pro.html
+- Model: iPhone 17 Pro
+- Repair type: Battery Replacement
+- Meta description: iPhone 17 Pro battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 50 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Pro Battery Replacement Guide | FixMob 2025 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Pro Battery Replacement Guide | FixMob This iPhone 17 Pro battery guide is written as a standalone bench page. It explains the 2025 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 Pro battery opening reference. Model iPhone 17 Pro Year / size 2025 / 6.3-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 17 Pro battery job Chassis
+
+### iPhone 17 Pro Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-17-pro-max.html
+- Model: iPhone 17 Pro Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone 17 Pro Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 26 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Pro Max Back Glass Replacement Guide | FixMob 2025 6.9-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Pro Max Back Glass Replacement Guide | FixMob This iPhone 17 Pro Max back glass guide is written as a standalone bench page. It explains the 2025 6.9-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 Pro Max back glass opening reference. Model iPhone 17 Pro Max Year / size 2025 / 6.9-inch Port USB-C Repair focus Back Glass Replacement Model Notes What
+
+### iPhone 17 Pro Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-17-pro-max.html
+- Model: iPhone 17 Pro Max
+- Repair type: Battery Replacement
+- Meta description: iPhone 17 Pro Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 50 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Pro Max Battery Replacement Guide | FixMob 2025 6.9-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Pro Max Battery Replacement Guide | FixMob This iPhone 17 Pro Max battery guide is written as a standalone bench page. It explains the 2025 6.9-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 Pro Max battery opening reference. Model iPhone 17 Pro Max Year / size 2025 / 6.9-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone
+
+### iPhone 17 Pro Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-17-pro-max.html
+- Model: iPhone 17 Pro Max
+- Repair type: Screen Replacement
+- Meta description: iPhone 17 Pro Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 55 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Pro Max Screen Replacement Guide | FixMob 2025 6.9-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Pro Max Screen Replacement Guide | FixMob This iPhone 17 Pro Max screen guide is written as a standalone bench page. It explains the 2025 6.9-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 Pro Max screen opening reference. Model iPhone 17 Pro Max Year / size 2025 / 6.9-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone
+
+### iPhone 17 Pro Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-17-pro.html
+- Model: iPhone 17 Pro
+- Repair type: Screen Replacement
+- Meta description: iPhone 17 Pro screen repair guide for cracked glass, black screen, green lines, or touch issues, with 55 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Pro Screen Replacement Guide | FixMob 2025 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Pro Screen Replacement Guide | FixMob This iPhone 17 Pro screen guide is written as a standalone bench page. It explains the 2025 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 Pro screen opening reference. Model iPhone 17 Pro Year / size 2025 / 6.3-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 17 Pro screen job Chassis
+
+### iPhone 17 Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-17.html
+- Model: iPhone 17
+- Repair type: Screen Replacement
+- Meta description: iPhone 17 screen repair guide for cracked glass, black screen, green lines, or touch issues, with 52 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17 Screen Replacement Guide | FixMob 2025 6.3-inch USB-C repair guide Model-Specific Tutorial iPhone 17 Screen Replacement Guide | FixMob This iPhone 17 screen guide is written as a standalone bench page. It explains the 2025 6.3-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17 screen opening reference. Model iPhone 17 Year / size 2025 / 6.3-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 17 screen job Chassis profile The 2025 iPhone 17 is
+
+### iPhone 17e Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-17e.html
+- Model: iPhone 17e
+- Repair type: Back Glass Repair
+- Meta description: iPhone 17e back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 44 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17e Back Glass Replacement Guide | FixMob 2026 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 17e Back Glass Replacement Guide | FixMob This iPhone 17e back glass guide is written as a standalone bench page. It explains the 2026 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17e back glass opening reference. Model iPhone 17e Year / size 2026 / 6.1-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone 17e back glass job Chassis
+
+### iPhone 17e Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-17e.html
+- Model: iPhone 17e
+- Repair type: Battery Replacement
+- Meta description: iPhone 17e battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 56 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17e Battery Replacement Guide | FixMob 2026 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 17e Battery Replacement Guide | FixMob This iPhone 17e battery guide is written as a standalone bench page. It explains the 2026 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17e battery opening reference. Model iPhone 17e Year / size 2026 / 6.1-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone 17e battery job Chassis profile The 2026 iPhone 17e is
+
+### iPhone 17e Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-17e.html
+- Model: iPhone 17e
+- Repair type: Screen Replacement
+- Meta description: iPhone 17e screen repair guide for cracked glass, black screen, green lines, or touch issues, with 41 photos, screw checks, and closing tests.
+- Extractable summary: iPhone 17e Screen Replacement Guide | FixMob 2026 6.1-inch USB-C repair guide Model-Specific Tutorial iPhone 17e Screen Replacement Guide | FixMob This iPhone 17e screen guide is written as a standalone bench page. It explains the 2026 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone 17e screen opening reference. Model iPhone 17e Year / size 2026 / 6.1-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone 17e screen job Chassis profile The 2026 iPhone 17e is
+
+### iPhone Air Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-air.html
+- Model: iPhone Air
+- Repair type: Back Glass Repair
+- Meta description: iPhone Air back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 22 photos, screw checks, and closing tests.
+- Extractable summary: iPhone Air Back Glass Replacement Guide | FixMob 2025 6.5-inch USB-C repair guide Model-Specific Tutorial iPhone Air Back Glass Replacement Guide | FixMob This iPhone Air back glass guide is written as a standalone bench page. It explains the 2025 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone Air back glass opening reference. Model iPhone Air Year / size 2025 / 6.5-inch Port USB-C Repair focus Back Glass Replacement Model Notes What is different about the iPhone Air back glass job Chassis
+
+### iPhone Air Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-air.html
+- Model: iPhone Air
+- Repair type: Battery Replacement
+- Meta description: iPhone Air battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 29 photos, screw checks, and closing tests.
+- Extractable summary: iPhone Air Battery Replacement Guide | FixMob 2025 6.5-inch USB-C repair guide Model-Specific Tutorial iPhone Air Battery Replacement Guide | FixMob This iPhone Air battery guide is written as a standalone bench page. It explains the 2025 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone Air battery opening reference. Model iPhone Air Year / size 2025 / 6.5-inch Port USB-C Repair focus Battery Replacement Model Notes What is different about the iPhone Air battery job Chassis profile The 2025 iPhone Air is
+
+### iPhone Air Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-air.html
+- Model: iPhone Air
+- Repair type: Screen Replacement
+- Meta description: iPhone Air screen repair guide for cracked glass, black screen, green lines, or touch issues, with 17 photos, screw checks, and closing tests.
+- Extractable summary: iPhone Air Screen Replacement Guide | FixMob 2025 6.5-inch USB-C repair guide Model-Specific Tutorial iPhone Air Screen Replacement Guide | FixMob This iPhone Air screen guide is written as a standalone bench page. It explains the 2025 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone Air screen opening reference. Model iPhone Air Year / size 2025 / 6.5-inch Port USB-C Repair focus Screen Replacement Model Notes What is different about the iPhone Air screen job Chassis profile The 2025 iPhone Air is
+
+### iPhone X Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-x.html
+- Model: iPhone x
+- Repair type: Back Glass Repair
+- Meta description: iPhone X back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 4 photos, screw checks, and closing tests.
+- Extractable summary: iPhone X Back Glass Replacement Guide | FixMob 2017 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone X Back Glass Replacement Guide | FixMob This iPhone X back glass guide is written as a standalone bench page. It explains the 2017 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone X back glass opening reference. Model iPhone X Year / size 2017 / 5.8-inch Port Lightning Repair focus Back Glass Replacement Model Notes What is different about the iPhone X back glass job Chassis
+
+### iPhone X Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-x.html
+- Model: iPhone x
+- Repair type: Battery Replacement
+- Meta description: iPhone X battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 48 photos, screw checks, and closing tests.
+- Extractable summary: iPhone X Battery Replacement Guide | FixMob 2017 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone X Battery Replacement Guide | FixMob This iPhone X battery guide is written as a standalone bench page. It explains the 2017 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone X battery opening reference. Model iPhone X Year / size 2017 / 5.8-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone X battery job Chassis profile The 2017 iPhone X is
+
+### iPhone X Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-x.html
+- Model: iPhone x
+- Repair type: Screen Replacement
+- Meta description: iPhone X screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.
+- Extractable summary: iPhone X Screen Replacement Guide | FixMob 2017 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone X Screen Replacement Guide | FixMob This iPhone X screen guide is written as a standalone bench page. It explains the 2017 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone X screen opening reference. Model iPhone X Year / size 2017 / 5.8-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone X screen job Chassis profile The 2017 iPhone X is
+
+### iPhone XR Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-xr.html
+- Model: iPhone XR
+- Repair type: Back Glass Repair
+- Meta description: iPhone XR back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 47 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XR Back Glass Replacement Guide | FixMob 2018 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone XR Back Glass Replacement Guide | FixMob This iPhone XR back glass guide is written as a standalone bench page. It explains the 2018 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XR back glass opening reference. Model iPhone XR Year / size 2018 / 6.1-inch Port Lightning Repair focus Back Glass Replacement Model Notes What is different about the iPhone XR back glass job Chassis
+
+### iPhone XR Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-xr.html
+- Model: iPhone XR
+- Repair type: Battery Replacement
+- Meta description: iPhone XR battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 42 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XR Battery Replacement Guide | FixMob 2018 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone XR Battery Replacement Guide | FixMob This iPhone XR battery guide is written as a standalone bench page. It explains the 2018 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XR battery opening reference. Model iPhone XR Year / size 2018 / 6.1-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone XR battery job Chassis profile The 2018 iPhone XR is
+
+### iPhone XR Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-xr.html
+- Model: iPhone XR
+- Repair type: Screen Replacement
+- Meta description: iPhone XR screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XR Screen Replacement Guide | FixMob 2018 6.1-inch Lightning repair guide Model-Specific Tutorial iPhone XR Screen Replacement Guide | FixMob This iPhone XR screen guide is written as a standalone bench page. It explains the 2018 6.1-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XR screen opening reference. Model iPhone XR Year / size 2018 / 6.1-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone XR screen job Chassis profile The 2018 iPhone XR is
+
+### iPhone XS Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-xs.html
+- Model: iPhone XS
+- Repair type: Back Glass Repair
+- Meta description: iPhone XS back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XS Back Glass Replacement Guide | FixMob 2018 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone XS Back Glass Replacement Guide | FixMob This iPhone XS back glass guide is written as a standalone bench page. It explains the 2018 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XS back glass opening reference. Model iPhone XS Year / size 2018 / 5.8-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone XS back glass job Chassis
+
+### iPhone XS Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-xs.html
+- Model: iPhone XS
+- Repair type: Battery Replacement
+- Meta description: iPhone XS battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 48 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XS Battery Replacement Guide | FixMob 2018 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone XS Battery Replacement Guide | FixMob This iPhone XS battery guide is written as a standalone bench page. It explains the 2018 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XS battery opening reference. Model iPhone XS Year / size 2018 / 5.8-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone XS battery job Chassis profile The 2018 iPhone XS is
+
+### iPhone XS Max Back Glass Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/backglass/iphone-xs-max.html
+- Model: iPhone XS Max
+- Repair type: Back Glass Repair
+- Meta description: iPhone XS Max back glass repair guide for rear glass cracks, camera ring damage, or wireless charging checks, with 8 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XS Max Back Glass Replacement Guide | FixMob 2018 6.5-inch Lightning repair guide Model-Specific Tutorial iPhone XS Max Back Glass Replacement Guide | FixMob This iPhone XS Max back glass guide is written as a standalone bench page. It explains the 2018 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XS Max back glass opening reference. Model iPhone XS Max Year / size 2018 / 6.5-inch Port Lightning Repair focus Back Glass Planning Model Notes What is different about the iPhone
+
+### iPhone XS Max Battery Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/battery/iphone-xs-max.html
+- Model: iPhone XS Max
+- Repair type: Battery Replacement
+- Meta description: iPhone XS Max battery repair guide for weak battery health, fast drain, shutdowns, or charging issues, with 50 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XS Max Battery Replacement Guide | FixMob 2018 6.5-inch Lightning repair guide Model-Specific Tutorial iPhone XS Max Battery Replacement Guide | FixMob This iPhone XS Max battery guide is written as a standalone bench page. It explains the 2018 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XS Max battery opening reference. Model iPhone XS Max Year / size 2018 / 6.5-inch Port Lightning Repair focus Battery Replacement Model Notes What is different about the iPhone XS Max battery job Chassis
+
+### iPhone XS Max Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-xs-max.html
+- Model: iPhone XS Max
+- Repair type: Screen Replacement
+- Meta description: iPhone XS Max screen repair guide for cracked glass, black screen, green lines, or touch issues, with 33 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XS Max Screen Replacement Guide | FixMob 2018 6.5-inch Lightning repair guide Model-Specific Tutorial iPhone XS Max Screen Replacement Guide | FixMob This iPhone XS Max screen guide is written as a standalone bench page. It explains the 2018 6.5-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XS Max screen opening reference. Model iPhone XS Max Year / size 2018 / 6.5-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone XS Max screen job Chassis
+
+### iPhone XS Screen Replacement Guide | FixMob
+
+- URL: https://fixmob.tech/repairs/screen/iphone-xs.html
+- Model: iPhone XS
+- Repair type: Screen Replacement
+- Meta description: iPhone XS screen repair guide for cracked glass, black screen, green lines, or touch issues, with 32 photos, screw checks, and closing tests.
+- Extractable summary: iPhone XS Screen Replacement Guide | FixMob 2018 5.8-inch Lightning repair guide Model-Specific Tutorial iPhone XS Screen Replacement Guide | FixMob This iPhone XS screen guide is written as a standalone bench page. It explains the 2018 5.8-inch chassis, the parts most likely to be damaged, and the checks to make before the phone is sealed again. iPhone XS screen opening reference. Model iPhone XS Year / size 2018 / 5.8-inch Port Lightning Repair focus Screen Replacement Model Notes What is different about the iPhone XS screen job Chassis profile The 2018 iPhone XS is
+
+
+## Safety and Editorial Notes
+
+FixMob repair information is educational. Visitors should verify the exact iPhone model, discharge batteries before opening the device, keep screw positions mapped, avoid puncturing lithium-ion batteries, protect display and sensor cables, and consider professional help for swollen batteries or difficult back glass repairs.
