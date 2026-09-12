@@ -32,7 +32,7 @@ jobs:
         run: |
           mkdir -p seo/reports
           set +e
-          python scripts/gsc_fetch.py --run-date 2026-09-13 > /tmp/gsc-verify-output.json
+          python scripts/gsc_fetch.py --run-date 2026-09-14 > /tmp/gsc-verify-output.json
           code=$?
           {
             echo "# GSC Verification Result"
