@@ -1,0 +1,31 @@
+name: Verify GSC Access
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/verify-gsc.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  verify-gsc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements-seo.txt
+
+      - name: Verify Search Console API access
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_PROPERTY: ${{ secrets.GSC_PROPERTY }}
+        run: python scripts/gsc_fetch.py --run-date 2026-09-13
