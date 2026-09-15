@@ -652,6 +652,24 @@
       "iphone 17 pro screen replacement",
       "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
       "zaf",
+      "DESKTOP",
+      "2026-09-12"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 41,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "DESKTOP",
+    "date": "2026-09-12"
+  },
+  {
+    "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
       "MOBILE",
       "2026-08-30"
     ],
@@ -847,6 +865,24 @@
   },
   {
     "keys": [
+      "iphone 17 pro screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-12"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 53,
+    "query": "iphone 17 pro screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-12"
+  },
+  {
+    "keys": [
       "iphone 17 screen replacement",
       "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
       "zaf",
@@ -934,5 +970,41 @@
     "country": "zaf",
     "device": "MOBILE",
     "date": "2026-09-09"
+  },
+  {
+    "keys": [
+      "iphone 17 screen replacement",
+      "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+      "zaf",
+      "MOBILE",
+      "2026-09-11"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 54,
+    "query": "iphone 17 screen replacement",
+    "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html",
+    "country": "zaf",
+    "device": "MOBILE",
+    "date": "2026-09-11"
+  },
+  {
+    "keys": [
+      "iphone x screw diagram",
+      "https://fixmob.tech/screw-location-photos.html",
+      "phl",
+      "MOBILE",
+      "2026-09-12"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7,
+    "query": "iphone x screw diagram",
+    "page": "https://fixmob.tech/screw-location-photos.html",
+    "country": "phl",
+    "device": "MOBILE",
+    "date": "2026-09-12"
   }
 ]

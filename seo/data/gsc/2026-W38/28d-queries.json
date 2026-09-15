@@ -34,9 +34,9 @@
       "iphone 17 pro screen replacement"
     ],
     "clicks": 0,
-    "impressions": 27,
+    "impressions": 29,
     "ctr": 0,
-    "position": 58.44444444444444,
+    "position": 57.6551724137931,
     "query": "iphone 17 pro screen replacement"
   },
   {
@@ -44,9 +44,19 @@
       "iphone 17 screen replacement"
     ],
     "clicks": 0,
-    "impressions": 5,
+    "impressions": 6,
     "ctr": 0,
-    "position": 53.6,
+    "position": 53.666666666666664,
     "query": "iphone 17 screen replacement"
+  },
+  {
+    "keys": [
+      "iphone x screw diagram"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7,
+    "query": "iphone x screw diagram"
   }
 ]

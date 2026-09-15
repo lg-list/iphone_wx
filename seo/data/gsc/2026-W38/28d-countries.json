@@ -11,6 +11,36 @@
   },
   {
     "keys": [
+      "idn"
+    ],
+    "clicks": 1,
+    "impressions": 1,
+    "ctr": 1,
+    "position": 7,
+    "country": "idn"
+  },
+  {
+    "keys": [
+      "nzl"
+    ],
+    "clicks": 1,
+    "impressions": 2,
+    "ctr": 0.5,
+    "position": 4.5,
+    "country": "nzl"
+  },
+  {
+    "keys": [
+      "vnm"
+    ],
+    "clicks": 1,
+    "impressions": 6,
+    "ctr": 0.16666666666666666,
+    "position": 5.666666666666667,
+    "country": "vnm"
+  },
+  {
+    "keys": [
       "arg"
     ],
     "clicks": 0,
@@ -34,9 +64,9 @@
       "bel"
     ],
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 3,
     "ctr": 0,
-    "position": 18,
+    "position": 14.666666666666666,
     "country": "bel"
   },
   {
@@ -54,10 +84,40 @@
       "can"
     ],
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 3,
     "ctr": 0,
-    "position": 13.5,
+    "position": 11.333333333333334,
     "country": "can"
+  },
+  {
+    "keys": [
+      "deu"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 5,
+    "country": "deu"
+  },
+  {
+    "keys": [
+      "dnk"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9,
+    "country": "dnk"
+  },
+  {
+    "keys": [
+      "dza"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 6,
+    "country": "dza"
   },
   {
     "keys": [
@@ -68,6 +128,16 @@
     "ctr": 0,
     "position": 12,
     "country": "esp"
+  },
+  {
+    "keys": [
+      "fin"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4,
+    "country": "fin"
   },
   {
     "keys": [
@@ -101,6 +171,16 @@
   },
   {
     "keys": [
+      "ita"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7,
+    "country": "ita"
+  },
+  {
+    "keys": [
       "khm"
     ],
     "clicks": 0,
@@ -131,6 +211,16 @@
   },
   {
     "keys": [
+      "mex"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4,
+    "country": "mex"
+  },
+  {
+    "keys": [
       "mmr"
     ],
     "clicks": 0,
@@ -138,6 +228,16 @@
     "ctr": 0,
     "position": 7,
     "country": "mmr"
+  },
+  {
+    "keys": [
+      "mys"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 11,
+    "country": "mys"
   },
   {
     "keys": [
@@ -171,13 +271,33 @@
   },
   {
     "keys": [
-      "nzl"
+      "pak"
     ],
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,
-    "position": 2,
-    "country": "nzl"
+    "position": 5,
+    "country": "pak"
+  },
+  {
+    "keys": [
+      "pan"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 8,
+    "country": "pan"
+  },
+  {
+    "keys": [
+      "phl"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 7,
+    "country": "phl"
   },
   {
     "keys": [
@@ -201,32 +321,32 @@
   },
   {
     "keys": [
+      "tha"
+    ],
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 9,
+    "country": "tha"
+  },
+  {
+    "keys": [
       "usa"
     ],
     "clicks": 0,
-    "impressions": 16,
+    "impressions": 20,
     "ctr": 0,
     "position": 16,
     "country": "usa"
   },
   {
     "keys": [
-      "vnm"
-    ],
-    "clicks": 0,
-    "impressions": 1,
-    "ctr": 0,
-    "position": 3,
-    "country": "vnm"
-  },
-  {
-    "keys": [
       "zaf"
     ],
     "clicks": 0,
-    "impressions": 31,
+    "impressions": 34,
     "ctr": 0,
-    "position": 58.29032258064516,
+    "position": 57.5,
     "country": "zaf"
   }
 ]

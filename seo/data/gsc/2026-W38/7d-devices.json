@@ -1,23 +1,23 @@
 [
   {
     "keys": [
-      "DESKTOP"
+      "MOBILE"
     ],
-    "clicks": 0,
-    "impressions": 16,
-    "ctr": 0,
-    "position": 30.5625,
-    "device": "DESKTOP"
+    "clicks": 3,
+    "impressions": 24,
+    "ctr": 0.125,
+    "position": 25.208333333333332,
+    "device": "MOBILE"
   },
   {
     "keys": [
-      "MOBILE"
+      "DESKTOP"
     ],
     "clicks": 0,
-    "impressions": 11,
+    "impressions": 30,
     "ctr": 0,
-    "position": 39.09090909090909,
-    "device": "MOBILE"
+    "position": 22.033333333333335,
+    "device": "DESKTOP"
   },
   {
     "keys": [

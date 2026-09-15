@@ -11,12 +11,22 @@
   },
   {
     "keys": [
+      "https://fixmob.tech/screw-location-photos.html"
+    ],
+    "clicks": 3,
+    "impressions": 19,
+    "ctr": 0.15789473684210525,
+    "position": 6.7368421052631575,
+    "page": "https://fixmob.tech/screw-location-photos.html"
+  },
+  {
+    "keys": [
       "https://fixmob.tech/repairs/backglass/iphone-xs-max.html"
     ],
     "clicks": 0,
-    "impressions": 17,
+    "impressions": 19,
     "ctr": 0,
-    "position": 20.529411764705884,
+    "position": 21,
     "page": "https://fixmob.tech/repairs/backglass/iphone-xs-max.html"
   },
   {
@@ -24,9 +34,9 @@
       "https://fixmob.tech/repairs/battery/iphone-13-mini.html"
     ],
     "clicks": 0,
-    "impressions": 19,
+    "impressions": 20,
     "ctr": 0,
-    "position": 12.105263157894736,
+    "position": 11.95,
     "page": "https://fixmob.tech/repairs/battery/iphone-13-mini.html"
   },
   {
@@ -54,9 +64,9 @@
       "https://fixmob.tech/repairs/screen/iphone-17-pro.html"
     ],
     "clicks": 0,
-    "impressions": 36,
+    "impressions": 41,
     "ctr": 0,
-    "position": 53.111111111111114,
+    "position": 50.53658536585366,
     "page": "https://fixmob.tech/repairs/screen/iphone-17-pro.html"
   }
 ]

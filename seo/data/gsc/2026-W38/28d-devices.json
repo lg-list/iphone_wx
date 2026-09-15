@@ -1,23 +1,23 @@
 [
   {
     "keys": [
-      "DESKTOP"
+      "MOBILE"
     ],
-    "clicks": 1,
-    "impressions": 41,
-    "ctr": 0.024390243902439025,
-    "position": 32.14634146341463,
-    "device": "DESKTOP"
+    "clicks": 3,
+    "impressions": 48,
+    "ctr": 0.0625,
+    "position": 24.4375,
+    "device": "MOBILE"
   },
   {
     "keys": [
-      "MOBILE"
+      "DESKTOP"
     ],
-    "clicks": 0,
-    "impressions": 35,
-    "ctr": 0,
-    "position": 28.514285714285716,
-    "device": "MOBILE"
+    "clicks": 1,
+    "impressions": 55,
+    "ctr": 0.01818181818181818,
+    "position": 27.09090909090909,
+    "device": "DESKTOP"
   },
   {
     "keys": [
