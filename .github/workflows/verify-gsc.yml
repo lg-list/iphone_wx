@@ -5,6 +5,8 @@ on:
   push:
     paths:
       - ".github/workflows/verify-gsc.yml"
+      - "scripts/gsc_fetch.py"
+      - "scripts/gsc_submit_sitemap.py"
 
 permissions:
   contents: write
@@ -34,10 +36,15 @@ jobs:
           set +e
           python scripts/gsc_fetch.py --run-date 2026-09-14 > /tmp/gsc-verify-output.json
           code=$?
+          set +e
+          submit_output=$(python scripts/gsc_submit_sitemap.py 2>/dev/null)
+          submit_code=$?
           {
             echo "# GSC Verification Result"
             echo
             echo "- Exit code: ${code}"
+            echo "- Sitemap submit exit code: ${submit_code}"
+            echo "- Sitemap submit status: ${submit_output}"
             echo "- Property configured: ${GSC_PROPERTY:-MISSING}"
             echo "- Service account secret present: $(if [ -n "${GSC_SERVICE_ACCOUNT_JSON:-}" ]; then echo yes; else echo no; fi)"
             echo "- Run time UTC: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"

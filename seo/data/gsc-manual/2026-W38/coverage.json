@@ -1,0 +1,692 @@
+{
+  "run_date": "2026-09-15",
+  "issue": "Discovered - currently not indexed",
+  "pages": [
+    {
+      "url": "https://fixmob.tech/about.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "support",
+      "repair_type": "",
+      "model": ""
+    },
+    {
+      "url": "https://fixmob.tech/back-glass-repair-guides.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "category",
+      "repair_type": "backglass",
+      "model": ""
+    },
+    {
+      "url": "https://fixmob.tech/battery-replacement-guides.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "category",
+      "repair_type": "battery",
+      "model": ""
+    },
+    {
+      "url": "https://fixmob.tech/contact.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "support",
+      "repair_type": "",
+      "model": ""
+    },
+    {
+      "url": "https://fixmob.tech/privacy.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "support",
+      "repair_type": "",
+      "model": ""
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-11-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 11 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-11-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 11 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-11.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 11"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-12-mini.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 12 mini"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-12-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 12 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-12-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 12 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-12.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 12"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-13-mini.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 13 mini"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-13-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 13 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-13-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 13 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-13.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 13"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-14-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 14 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-14-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 14 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-14-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 14 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-14.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 14"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-15-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 15 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-15-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 15 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-15-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 15 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-15.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 15"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-16-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 16 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-16-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 16 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-16-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 16 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-16.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 16"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-16e.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 16e"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-17-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 17 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-17-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 17 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-17.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 17"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-17e.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone 17e"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-air.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone Air"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-x.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone x"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-xr.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone XR"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/backglass/iphone-xs.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "backglass",
+      "model": "iPhone XS"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-11-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 11 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-11-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 11 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-11.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 11"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-12-mini.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 12 mini"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-12-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 12 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-12-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 12 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-12.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 12"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-13-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 13 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-13-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 13 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-13.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 13"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-14-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 14 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-14-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 14 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-14-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 14 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-14.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 14"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-15-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 15 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-15-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 15 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-15-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 15 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-16-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 16 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-16-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 16 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-16-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 16 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-16.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 16"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-16e.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 16e"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-17-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 17 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-17-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 17 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-17.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 17"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-17e.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone 17e"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-air.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone Air"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-x.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone x"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-xr.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone XR"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-xs-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone XS Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/battery/iphone-xs.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "battery",
+      "model": "iPhone XS"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-11-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 11 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-11-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 11 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-11.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 11"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-12-mini.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 12 mini"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-12-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 12 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-12-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 12 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-12.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 12"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-13-mini.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 13 mini"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-13-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 13 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-13.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 13"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-14-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 14 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-14-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 14 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-14-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 14 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-15-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 15 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-15-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 15 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-15.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 15"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-16-plus.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 16 plus"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-16-pro.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 16 Pro"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-16.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 16"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-16e.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 16e"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-17-pro-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 17 Pro Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-17.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 17"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-17e.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone 17e"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-air.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone Air"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-x.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone x"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-xs-max.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone XS Max"
+    },
+    {
+      "url": "https://fixmob.tech/repairs/screen/iphone-xs.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "repair",
+      "repair_type": "screen",
+      "model": "iPhone XS"
+    },
+    {
+      "url": "https://fixmob.tech/screen-repair-guides.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "category",
+      "repair_type": "screen",
+      "model": ""
+    },
+    {
+      "url": "https://fixmob.tech/site-map.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "support",
+      "repair_type": "",
+      "model": ""
+    },
+    {
+      "url": "https://fixmob.tech/terms.html",
+      "last_crawl": "1970-01-01 00:00:00",
+      "kind": "support",
+      "repair_type": "",
+      "model": ""
+    }
+  ]
+}

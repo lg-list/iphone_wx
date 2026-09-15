@@ -14,8 +14,9 @@
   "scripts": {
     "seo:weekly": "python scripts/seo_operator.py weekly",
     "seo:gsc": "python scripts/gsc_fetch.py",
+    "seo:gsc:submit-sitemap": "python scripts/gsc_submit_sitemap.py",
     "seo:links": "python scripts/internal_links.py",
-    "build:seo": "node scripts/generate-category-pages.mjs && node scripts/generate-html-sitemap.mjs && node scripts/generate-sitemap.mjs && node scripts/generate-llms-files.mjs"
+    "build:seo": "node scripts/generate-category-pages.mjs && node scripts/generate-html-sitemap.mjs && node scripts/generate-indexing-priority-links.mjs && node scripts/generate-sitemap.mjs && node scripts/generate-llms-files.mjs"
   },
   "keywords": [],
   "author": "",

@@ -1,6 +1,8 @@
 tmp/
 node_modules/
 *.exe
+__pycache__/
+*.pyc
 
 New project/
 assets/repair-photos/local/*.ps1

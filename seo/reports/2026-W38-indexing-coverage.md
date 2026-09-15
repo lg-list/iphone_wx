@@ -1,0 +1,116 @@
+# GSC Discovered Not Indexed Coverage
+
+- Run date: 2026-09-15
+- Affected URLs: 98
+
+## URL Groups
+- category: 3
+- repair:backglass: 32
+- repair:battery: 31
+- repair:screen: 27
+- support: 5
+
+## Fix Plan Applied
+- Add static homepage links to every affected repair guide and core category page.
+- Refresh sitemap lastmod values during the SEO build.
+- Keep repair pages indexable with canonical HTTPS URLs and direct internal links.
+
+## Affected URLs
+- https://fixmob.tech/about.html
+- https://fixmob.tech/back-glass-repair-guides.html
+- https://fixmob.tech/battery-replacement-guides.html
+- https://fixmob.tech/contact.html
+- https://fixmob.tech/privacy.html
+- https://fixmob.tech/repairs/backglass/iphone-11-pro-max.html
+- https://fixmob.tech/repairs/backglass/iphone-11-pro.html
+- https://fixmob.tech/repairs/backglass/iphone-11.html
+- https://fixmob.tech/repairs/backglass/iphone-12-mini.html
+- https://fixmob.tech/repairs/backglass/iphone-12-pro-max.html
+- https://fixmob.tech/repairs/backglass/iphone-12-pro.html
+- https://fixmob.tech/repairs/backglass/iphone-12.html
+- https://fixmob.tech/repairs/backglass/iphone-13-mini.html
+- https://fixmob.tech/repairs/backglass/iphone-13-pro-max.html
+- https://fixmob.tech/repairs/backglass/iphone-13-pro.html
+- https://fixmob.tech/repairs/backglass/iphone-13.html
+- https://fixmob.tech/repairs/backglass/iphone-14-plus.html
+- https://fixmob.tech/repairs/backglass/iphone-14-pro-max.html
+- https://fixmob.tech/repairs/backglass/iphone-14-pro.html
+- https://fixmob.tech/repairs/backglass/iphone-14.html
+- https://fixmob.tech/repairs/backglass/iphone-15-plus.html
+- https://fixmob.tech/repairs/backglass/iphone-15-pro-max.html
+- https://fixmob.tech/repairs/backglass/iphone-15-pro.html
+- https://fixmob.tech/repairs/backglass/iphone-15.html
+- https://fixmob.tech/repairs/backglass/iphone-16-plus.html
+- https://fixmob.tech/repairs/backglass/iphone-16-pro-max.html
+- https://fixmob.tech/repairs/backglass/iphone-16-pro.html
+- https://fixmob.tech/repairs/backglass/iphone-16.html
+- https://fixmob.tech/repairs/backglass/iphone-16e.html
+- https://fixmob.tech/repairs/backglass/iphone-17-pro-max.html
+- https://fixmob.tech/repairs/backglass/iphone-17-pro.html
+- https://fixmob.tech/repairs/backglass/iphone-17.html
+- https://fixmob.tech/repairs/backglass/iphone-17e.html
+- https://fixmob.tech/repairs/backglass/iphone-air.html
+- https://fixmob.tech/repairs/backglass/iphone-x.html
+- https://fixmob.tech/repairs/backglass/iphone-xr.html
+- https://fixmob.tech/repairs/backglass/iphone-xs.html
+- https://fixmob.tech/repairs/battery/iphone-11-pro-max.html
+- https://fixmob.tech/repairs/battery/iphone-11-pro.html
+- https://fixmob.tech/repairs/battery/iphone-11.html
+- https://fixmob.tech/repairs/battery/iphone-12-mini.html
+- https://fixmob.tech/repairs/battery/iphone-12-pro-max.html
+- https://fixmob.tech/repairs/battery/iphone-12-pro.html
+- https://fixmob.tech/repairs/battery/iphone-12.html
+- https://fixmob.tech/repairs/battery/iphone-13-pro-max.html
+- https://fixmob.tech/repairs/battery/iphone-13-pro.html
+- https://fixmob.tech/repairs/battery/iphone-13.html
+- https://fixmob.tech/repairs/battery/iphone-14-plus.html
+- https://fixmob.tech/repairs/battery/iphone-14-pro-max.html
+- https://fixmob.tech/repairs/battery/iphone-14-pro.html
+- https://fixmob.tech/repairs/battery/iphone-14.html
+- https://fixmob.tech/repairs/battery/iphone-15-plus.html
+- https://fixmob.tech/repairs/battery/iphone-15-pro-max.html
+- https://fixmob.tech/repairs/battery/iphone-15-pro.html
+- https://fixmob.tech/repairs/battery/iphone-16-plus.html
+- https://fixmob.tech/repairs/battery/iphone-16-pro-max.html
+- https://fixmob.tech/repairs/battery/iphone-16-pro.html
+- https://fixmob.tech/repairs/battery/iphone-16.html
+- https://fixmob.tech/repairs/battery/iphone-16e.html
+- https://fixmob.tech/repairs/battery/iphone-17-pro-max.html
+- https://fixmob.tech/repairs/battery/iphone-17-pro.html
+- https://fixmob.tech/repairs/battery/iphone-17.html
+- https://fixmob.tech/repairs/battery/iphone-17e.html
+- https://fixmob.tech/repairs/battery/iphone-air.html
+- https://fixmob.tech/repairs/battery/iphone-x.html
+- https://fixmob.tech/repairs/battery/iphone-xr.html
+- https://fixmob.tech/repairs/battery/iphone-xs-max.html
+- https://fixmob.tech/repairs/battery/iphone-xs.html
+- https://fixmob.tech/repairs/screen/iphone-11-pro-max.html
+- https://fixmob.tech/repairs/screen/iphone-11-pro.html
+- https://fixmob.tech/repairs/screen/iphone-11.html
+- https://fixmob.tech/repairs/screen/iphone-12-mini.html
+- https://fixmob.tech/repairs/screen/iphone-12-pro-max.html
+- https://fixmob.tech/repairs/screen/iphone-12-pro.html
+- https://fixmob.tech/repairs/screen/iphone-12.html
+- https://fixmob.tech/repairs/screen/iphone-13-mini.html
+- https://fixmob.tech/repairs/screen/iphone-13-pro.html
+- https://fixmob.tech/repairs/screen/iphone-13.html
+- https://fixmob.tech/repairs/screen/iphone-14-plus.html
+- https://fixmob.tech/repairs/screen/iphone-14-pro-max.html
+- https://fixmob.tech/repairs/screen/iphone-14-pro.html
+- https://fixmob.tech/repairs/screen/iphone-15-plus.html
+- https://fixmob.tech/repairs/screen/iphone-15-pro.html
+- https://fixmob.tech/repairs/screen/iphone-15.html
+- https://fixmob.tech/repairs/screen/iphone-16-plus.html
+- https://fixmob.tech/repairs/screen/iphone-16-pro.html
+- https://fixmob.tech/repairs/screen/iphone-16.html
+- https://fixmob.tech/repairs/screen/iphone-16e.html
+- https://fixmob.tech/repairs/screen/iphone-17-pro-max.html
+- https://fixmob.tech/repairs/screen/iphone-17.html
+- https://fixmob.tech/repairs/screen/iphone-17e.html
+- https://fixmob.tech/repairs/screen/iphone-air.html
+- https://fixmob.tech/repairs/screen/iphone-x.html
+- https://fixmob.tech/repairs/screen/iphone-xs-max.html
+- https://fixmob.tech/repairs/screen/iphone-xs.html
+- https://fixmob.tech/screen-repair-guides.html
+- https://fixmob.tech/site-map.html
+- https://fixmob.tech/terms.html

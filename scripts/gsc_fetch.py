@@ -98,7 +98,7 @@ def build_service() -> Any:
 
     credentials = service_account.Credentials.from_service_account_info(
         info,
-        scopes=["https://www.googleapis.com/auth/webmasters.readonly"],
+        scopes=["https://www.googleapis.com/auth/webmasters"],
     )
     return build("searchconsole", "v1", credentials=credentials, cache_discovery=False)
 
